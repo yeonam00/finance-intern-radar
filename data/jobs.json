@@ -1,96 +1,97 @@
 {
- "generated_at": "2026-11-19 04:31",
+ "generated_at": "2026-11-19 04:46",
  "today": "2026-11-19",
  "status": [
   {
    "name": "링커리어",
    "ok": true,
    "fetched": 1049,
-   "sec": 57.5,
+   "sec": 81.7,
    "kept": 47
   },
   {
    "name": "자소설닷컴",
    "ok": true,
    "fetched": 293,
-   "sec": 12.3,
+   "sec": 3.8,
    "kept": 6
   },
   {
    "name": "캐치",
-   "ok": true,
-   "fetched": 769,
-   "sec": 9.8,
-   "kept": 28
+   "ok": false,
+   "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.catch.co.kr/api/v1.0/recruit/information/getRecruitList?Keyword=%EC%9D%B8%ED%84%B4&Sort=0&curpage=1&pageSize=100&onRecruitYN=Y",
+   "fetched": 0,
+   "sec": 0.6,
+   "kept": 0
   },
   {
    "name": "원티드",
    "ok": true,
    "fetched": 1424,
-   "sec": 85.8,
+   "sec": 113.0,
    "kept": 0
   },
   {
    "name": "사람인",
    "ok": true,
-   "fetched": 972,
-   "sec": 39.2,
-   "kept": 32
+   "fetched": 788,
+   "sec": 49.2,
+   "kept": 33
   },
   {
    "name": "잡코리아",
    "ok": true,
    "fetched": 264,
-   "sec": 21.6,
+   "sec": 25.1,
    "kept": 28
   },
   {
    "name": "피플앤잡",
    "ok": true,
    "fetched": 478,
-   "sec": 25.8,
+   "sec": 30.8,
    "kept": 8
   },
   {
    "name": "잡알리오",
    "ok": true,
    "fetched": 54,
-   "sec": 12.3,
+   "sec": 15.0,
    "kept": 2
   },
   {
    "name": "벤처투자포털",
    "ok": true,
    "fetched": 80,
-   "sec": 8.6,
+   "sec": 12.5,
    "kept": 4
   },
   {
    "name": "금융투자협회",
    "ok": true,
    "fetched": 79,
-   "sec": 15.4,
+   "sec": 22.7,
    "kept": 34
   },
   {
    "name": "고려대 경영CDC",
    "ok": true,
    "fetched": 56,
-   "sec": 2.5,
+   "sec": 4.4,
    "kept": 13
   },
   {
    "name": "슈퍼루키",
    "ok": true,
    "fetched": 384,
-   "sec": 47.7,
+   "sec": 43.7,
    "kept": 18
   },
   {
    "name": "회사 채용페이지",
    "ok": true,
    "fetched": 17,
-   "sec": 93.5,
+   "sec": 71.1,
    "kept": 2
   }
  ],
@@ -130,7 +131,7 @@
    "url": "https://linkareer.com/activity/364647",
    "deadline": "2026-11-23",
    "deadline_note": null,
-   "posted": "2026-10-19",
+   "posted": null,
    "intern": true,
    "category": "회계법인·FAS",
    "extra": "사무/문서관리 데이터분석",
@@ -140,36 +141,8 @@
      "url": "https://linkareer.com/activity/364647"
     },
     {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/576953"
-    },
-    {
      "name": "잡코리아",
      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50372461"
-    }
-   ],
-   "first_seen": "2026-11-19",
-   "is_new": true
-  },
-  {
-   "source": "캐치",
-   "company": "EY한영",
-   "title": "감사부문 포렌식팀 인턴(전환형) 채용",
-   "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/575811",
-   "deadline": "2026-11-22",
-   "deadline_note": null,
-   "posted": "2026-10-12",
-   "intern": true,
-   "category": "회계법인·FAS",
-   "extra": "인턴 네트워크/서버/보안, 사무/총무/법무, 설문/통계/리서치",
-   "sources": [
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/575811"
-    },
-    {
-     "name": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50372425"
     }
    ],
    "first_seen": "2026-11-19",
@@ -241,6 +214,26 @@
     }
    ],
    "first_seen": "2026-11-16",
+   "is_new": true
+  },
+  {
+   "source": "잡코리아",
+   "company": "EY한영",
+   "title": "감사부문 포렌식팀 인턴",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50372425",
+   "deadline": null,
+   "deadline_note": null,
+   "posted": null,
+   "intern": false,
+   "category": "회계법인·FAS",
+   "extra": "인턴 채용 진행중 | 스크랩 | 감사부문 포렌식팀 인턴 | 한영회계법인 | 서울 영등포구 | 회계·세무·법무, 컨설턴트 | 홈페이지 지원 | 신입",
+   "sources": [
+    {
+     "name": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50372425"
+    }
+   ],
+   "first_seen": "2026-11-19",
    "is_new": true
   },
   {
@@ -318,7 +311,7 @@
    "url": "https://linkareer.com/activity/364210",
    "deadline": "2026-11-19",
    "deadline_note": null,
-   "posted": "2026-11-11",
+   "posted": null,
    "intern": true,
    "category": "은행·보험·기타",
    "extra": "서비스기획/운영",
@@ -326,10 +319,6 @@
     {
      "name": "링커리어",
      "url": "https://linkareer.com/activity/364210"
-    },
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/581066"
     },
     {
      "name": "잡코리아",
@@ -346,7 +335,7 @@
    "url": "https://linkareer.com/activity/363960",
    "deadline": "2026-11-25",
    "deadline_note": null,
-   "posted": "2026-11-11",
+   "posted": null,
    "intern": true,
    "category": "은행·보험·기타",
    "extra": "서비스기획/운영",
@@ -354,10 +343,6 @@
     {
      "name": "링커리어",
      "url": "https://linkareer.com/activity/363960"
-    },
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/580915"
     }
    ],
    "first_seen": "2026-11-16",
@@ -370,7 +355,7 @@
    "url": "https://linkareer.com/activity/363521",
    "deadline": "2026-11-23",
    "deadline_note": null,
-   "posted": "2026-11-08",
+   "posted": null,
    "intern": true,
    "category": "은행·보험·기타",
    "extra": "서비스기획/운영 사무/문서관리",
@@ -378,10 +363,6 @@
     {
      "name": "링커리어",
      "url": "https://linkareer.com/activity/363521"
-    },
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/580476"
     },
     {
      "name": "잡코리아",
@@ -398,7 +379,7 @@
    "url": "https://linkareer.com/activity/363127",
    "deadline": "2026-11-25",
    "deadline_note": null,
-   "posted": "2026-11-09",
+   "posted": null,
    "intern": true,
    "category": "은행·보험·기타",
    "extra": "DevOps/클라우드/보안",
@@ -406,10 +387,6 @@
     {
      "name": "링커리어",
      "url": "https://linkareer.com/activity/363127"
-    },
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/580176"
     }
    ],
    "first_seen": "2026-11-16",
@@ -466,7 +443,7 @@
    "url": "https://linkareer.com/activity/365361",
    "deadline": "2026-12-18",
    "deadline_note": "채용시 마감",
-   "posted": "2026-11-18",
+   "posted": null,
    "intern": true,
    "category": "회계법인·FAS",
    "extra": "전체",
@@ -474,10 +451,6 @@
     {
      "name": "링커리어",
      "url": "https://linkareer.com/activity/365361"
-    },
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/582808"
     },
     {
      "name": "사람인",
@@ -498,7 +471,7 @@
    "url": "https://linkareer.com/activity/362166",
    "deadline": "2026-11-30",
    "deadline_note": "채용시 마감",
-   "posted": "2026-11-04",
+   "posted": null,
    "intern": true,
    "category": "회계법인·FAS",
    "extra": "인사/채용/노무 사무/문서관리",
@@ -506,10 +479,6 @@
     {
      "name": "링커리어",
      "url": "https://linkareer.com/activity/362166"
-    },
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/579545"
     },
     {
      "name": "사람인",
@@ -598,7 +567,7 @@
    "url": "https://linkareer.com/activity/365244",
    "deadline": "2026-11-22",
    "deadline_note": null,
-   "posted": "2026-11-15",
+   "posted": "2026-11-16",
    "intern": true,
    "category": "신용평가",
    "extra": "보험심사/손해사정 리스크/컴플라이언스",
@@ -606,10 +575,6 @@
     {
      "name": "링커리어",
      "url": "https://linkareer.com/activity/365244"
-    },
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/582648"
     },
     {
      "name": "사람인",
@@ -650,7 +615,7 @@
    "url": "https://linkareer.com/activity/364878",
    "deadline": "2026-11-24",
    "deadline_note": null,
-   "posted": "2026-11-13",
+   "posted": null,
    "intern": true,
    "category": "증권·IB",
    "extra": "영업관리/기획 재무/회계/세무 증권/투자/애널리스트",
@@ -660,12 +625,8 @@
      "url": "https://linkareer.com/activity/364878"
     },
     {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/581329"
-    },
-    {
      "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55591927"
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55592400"
     },
     {
      "name": "잡코리아",
@@ -682,7 +643,7 @@
    "url": "https://linkareer.com/activity/364609",
    "deadline": "2026-11-22",
    "deadline_note": null,
-   "posted": "2026-11-15",
+   "posted": "2026-11-16",
    "intern": true,
    "category": "자산운용",
    "extra": "재무/회계/세무 자산운용/펀드",
@@ -690,10 +651,6 @@
     {
      "name": "링커리어",
      "url": "https://linkareer.com/activity/364609"
-    },
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/581326"
     },
     {
      "name": "금융투자협회",
@@ -770,7 +727,7 @@
    "url": "https://linkareer.com/activity/364100",
    "deadline": "2026-12-31",
    "deadline_note": null,
-   "posted": "2026-11-11",
+   "posted": null,
    "intern": true,
    "category": "회계법인·FAS",
    "extra": "시장조사/리서치",
@@ -778,10 +735,6 @@
     {
      "name": "링커리어",
      "url": "https://linkareer.com/activity/364100"
-    },
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/580958"
     }
    ],
    "first_seen": "2026-11-16",
@@ -790,11 +743,11 @@
   {
    "source": "링커리어",
    "company": "삼정KPMG",
-   "title": "[삼정KPMG] [인턴] Deal Adv 3본부 인턴 채용",
+   "title": "[삼정KPMG] Deal Adv 3본부 인턴 채용",
    "url": "https://linkareer.com/activity/363160",
    "deadline": "2026-11-20",
    "deadline_note": "내일마감",
-   "posted": "2026-11-04",
+   "posted": null,
    "intern": true,
    "category": "회계법인·FAS",
    "extra": "재무/IR",
@@ -802,10 +755,6 @@
     {
      "name": "링커리어",
      "url": "https://linkareer.com/activity/363160"
-    },
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/580139"
     },
     {
      "name": "사람인",
@@ -906,7 +855,7 @@
    "url": "https://linkareer.com/activity/363211",
    "deadline": "2026-11-20",
    "deadline_note": "내일마감",
-   "posted": "2026-11-05",
+   "posted": "2026-11-06",
    "intern": true,
    "category": "정책금융·공공",
    "extra": "전체 시장조사/리서치",
@@ -914,10 +863,6 @@
     {
      "name": "링커리어",
      "url": "https://linkareer.com/activity/363211"
-    },
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/580076"
     },
     {
      "name": "사람인",
@@ -1012,10 +957,6 @@
      "url": "https://linkareer.com/activity/362432"
     },
     {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/579770"
-    },
-    {
      "name": "사람인",
      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55494542"
     },
@@ -1046,7 +987,7 @@
    "url": "https://linkareer.com/activity/361578",
    "deadline": "2026-11-27",
    "deadline_note": null,
-   "posted": "2026-11-03",
+   "posted": "2026-11-02",
    "intern": true,
    "category": "회계법인·FAS",
    "extra": "전체 전체",
@@ -1054,10 +995,6 @@
     {
      "name": "링커리어",
      "url": "https://linkareer.com/activity/361578"
-    },
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/579075"
     },
     {
      "name": "사람인",
@@ -1086,7 +1023,7 @@
    "url": "https://linkareer.com/activity/339219",
    "deadline": "2026-12-31",
    "deadline_note": null,
-   "posted": "2026-06-03",
+   "posted": "2026-10-06",
    "intern": true,
    "category": "회계법인·FAS",
    "extra": "전체 전체 전체 전체",
@@ -1094,10 +1031,6 @@
     {
      "name": "링커리어",
      "url": "https://linkareer.com/activity/339219"
-    },
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/575042"
     },
     {
      "name": "사람인",
@@ -1321,8 +1254,8 @@
    "title": "[삼일회계법인] 피더블유씨비즈니스서비스 IR·PR 컨설턴트 인턴 채용",
    "url": "https://linkareer.com/activity/346984",
    "deadline": "2026-11-29",
-   "deadline_note": "채용시 마감",
-   "posted": "2026-08-30",
+   "deadline_note": null,
+   "posted": null,
    "intern": true,
    "category": "회계법인·FAS",
    "extra": "재무/IR",
@@ -1330,10 +1263,6 @@
     {
      "name": "링커리어",
      "url": "https://linkareer.com/activity/346984"
-    },
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/568805"
     }
    ],
    "first_seen": "2026-11-07",
@@ -1428,10 +1357,6 @@
      "url": "https://linkareer.com/activity/361365"
     },
     {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/578982"
-    },
-    {
      "name": "벤처투자포털",
      "url": "https://www.vcs.go.kr/web/portal/recruitment/view/41a013d4d67a11f1a4b6f220ef0ee4a5/all"
     },
@@ -1453,7 +1378,7 @@
    "posted": null,
    "intern": false,
    "category": "VC",
-   "extra": "경기 성남시 분당구 경력무관 고졸↑ 인턴직 총무 , 회계 , 경영지원 수정일 26/11/10",
+   "extra": "경기 성남시 분당구 경력무관 고졸↑ 인턴직 총무 , 경영지원 , 회계 수정일 26/11/10",
    "sources": [
     {
      "name": "사람인",
@@ -1589,8 +1514,8 @@
    "title": "[에이아이에이생명보험] CEO Office Intern",
    "url": "https://linkareer.com/activity/358068",
    "deadline": "2027-01-17",
-   "deadline_note": "채용시 마감",
-   "posted": "2026-10-15",
+   "deadline_note": null,
+   "posted": null,
    "intern": true,
    "category": "은행·보험·기타",
    "extra": "SNS/콘텐츠마케팅",
@@ -1598,10 +1523,6 @@
     {
      "name": "링커리어",
      "url": "https://linkareer.com/activity/358068"
-    },
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/576657"
     }
    ],
    "first_seen": "2026-11-07",
@@ -1724,10 +1645,6 @@
      "url": "https://jasoseol.com/recruit/107227"
     },
     {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/582711"
-    },
-    {
      "name": "사람인",
      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55573498"
     },
@@ -1766,7 +1683,7 @@
   {
    "source": "자소설닷컴",
    "company": "은행권청년창업재단",
-   "title": "2027년 상반기 디캠프 인턴 채용",
+   "title": "2027 상반기 디캠프 인턴 채용",
    "url": "https://jasoseol.com/recruit/107303",
    "deadline": "2026-12-02",
    "deadline_note": null,
@@ -1778,162 +1695,10 @@
     {
      "name": "자소설닷컴",
      "url": "https://jasoseol.com/recruit/107303"
-    },
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/582904"
     }
    ],
    "first_seen": "2026-11-19",
    "is_new": true
-  },
-  {
-   "source": "캐치",
-   "company": "한국예탁결제원",
-   "title": "2027년 체험형 청년인턴 채용 #공채",
-   "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/582738",
-   "deadline": "2026-11-30",
-   "deadline_note": null,
-   "posted": "2026-11-15",
-   "intern": true,
-   "category": "정책금융·공공",
-   "extra": "인턴 사무/총무/법무, 사무보조/문서작성, 재무/세무/IR",
-   "sources": [
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/582738"
-    },
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55588364"
-    }
-   ],
-   "first_seen": "2026-11-19",
-   "is_new": true
-  },
-  {
-   "source": "캐치",
-   "company": "교보생명보험",
-   "title": "FY2026 하반기 채용연계형 인턴 모집 #공채",
-   "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/581002",
-   "deadline": "2026-11-22",
-   "deadline_note": null,
-   "posted": "2026-11-11",
-   "intern": true,
-   "category": "은행·보험·기타",
-   "extra": "인턴 경영분석/컨설턴트, 기획/전략/경영, 마케팅/PR/분석, 영업관리/지원/영업기획, 증권/투자/펀드/외환, 채권/보험/보상/심사 대기업 신입",
-   "sources": [
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/581002"
-    }
-   ],
-   "first_seen": "2026-11-16",
-   "is_new": true
-  },
-  {
-   "source": "사람인",
-   "company": "교보생명보험",
-   "title": "2026년 교보생명 채용연계형 인턴 모집",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55554659",
-   "deadline": "2026-11-22",
-   "deadline_note": null,
-   "posted": null,
-   "intern": false,
-   "category": "은행·보험·기타",
-   "extra": "전국 신입 대졸↑ 정규직·인턴직 자산운용 , 자산운용사 , 펀드매니저 , 기업금융 , 금융상품영업 외 수정일 26/11/12",
-   "sources": [
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55554659"
-    }
-   ],
-   "first_seen": "2026-11-16",
-   "is_new": true
-  },
-  {
-   "source": "캐치",
-   "company": "공무원연금공단",
-   "title": "사회형평적 체험형 청년인턴 채용 공고(3차)",
-   "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/580547",
-   "deadline": "2026-11-24",
-   "deadline_note": null,
-   "posted": "2026-11-09",
-   "intern": true,
-   "category": "정책금융·공공",
-   "extra": "인턴 사무/총무/법무, 사무보조/문서작성, 재무/세무/IR, 채권/보험/보상/심사",
-   "sources": [
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/580547"
-    },
-    {
-     "name": "잡알리오",
-     "url": "https://job.alio.go.kr/recruitview.do?idx=306900"
-    }
-   ],
-   "first_seen": "2026-11-16",
-   "is_new": true
-  },
-  {
-   "source": "캐치",
-   "company": "SC제일은행",
-   "title": "Coverage Banking Internship Programme Korea 2027 채용",
-   "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/574586",
-   "deadline": "2026-12-31",
-   "deadline_note": null,
-   "posted": "2026-09-30",
-   "intern": true,
-   "category": "외국계 금융",
-   "extra": "인턴 기획/전략/경영, 일반영업 은행·금융",
-   "sources": [
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/574586"
-    }
-   ],
-   "first_seen": "2026-11-07",
-   "is_new": false
-  },
-  {
-   "source": "캐치",
-   "company": "SC제일은행",
-   "title": "Global Markets Internship Programme Korea 2027 채용",
-   "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/574584",
-   "deadline": "2026-12-31",
-   "deadline_note": null,
-   "posted": "2026-09-30",
-   "intern": true,
-   "category": "외국계 금융",
-   "extra": "인턴 설문/통계/리서치, 증권/투자/펀드/외환 은행·금융",
-   "sources": [
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/574584"
-    }
-   ],
-   "first_seen": "2026-11-07",
-   "is_new": false
-  },
-  {
-   "source": "캐치",
-   "company": "SC제일은행",
-   "title": "Mergers & Acquisitions Corporate & Investment Banking Internship 채용",
-   "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/574583",
-   "deadline": "2026-12-31",
-   "deadline_note": null,
-   "posted": "2026-09-30",
-   "intern": true,
-   "category": "외국계 금융",
-   "extra": "인턴 기획/전략/경영 은행·금융",
-   "sources": [
-    {
-     "name": "캐치",
-     "url": "https://www.catch.co.kr/NCS/RecruitInfoDetails/574583"
-    }
-   ],
-   "first_seen": "2026-11-07",
-   "is_new": false
   },
   {
    "source": "사람인",
@@ -1981,6 +1746,26 @@
   },
   {
    "source": "사람인",
+   "company": "한국예탁결제원",
+   "title": "한국예탁결제원 2027년 체험형 청년인턴 체용공고",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55588364",
+   "deadline": "2026-11-30",
+   "deadline_note": null,
+   "posted": null,
+   "intern": false,
+   "category": "정책금융·공공",
+   "extra": "부산 남구 경력무관 학력무관 계약직 2,640 만원 증권사 , 증권사 수정일 26/11/16",
+   "sources": [
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55588364"
+    }
+   ],
+   "first_seen": "2026-11-19",
+   "is_new": true
+  },
+  {
+   "source": "사람인",
    "company": "오로라투자자문",
    "title": "[오로라투자자문] 운영지원·백오피스 신입/인턴 채용",
    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55339773",
@@ -2021,6 +1806,26 @@
   },
   {
    "source": "사람인",
+   "company": "교보생명보험",
+   "title": "2026년 교보생명 채용연계형 인턴 모집",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55554659",
+   "deadline": "2026-11-22",
+   "deadline_note": null,
+   "posted": null,
+   "intern": false,
+   "category": "은행·보험·기타",
+   "extra": "전국 신입 대졸↑ 정규직·인턴직 자산운용 , 자산운용사 , 펀드매니저 , 기업금융 , 금융상품영업 외 수정일 26/11/12",
+   "sources": [
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55554659"
+    }
+   ],
+   "first_seen": "2026-11-16",
+   "is_new": true
+  },
+  {
+   "source": "사람인",
    "company": "다날투자파트너스",
    "title": "[다날투자파트너스] 투자육성팀 인턴 채용",
    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55566758",
@@ -2029,7 +1834,7 @@
    "posted": null,
    "intern": false,
    "category": "VC",
-   "extra": "경기 성남시 분당구 신입 대졸↑ 인턴직 투자분석 , 투자심사 , 투자자산 , 엑셀러레이팅 , 신사업발굴 외 등록일 26/11/13",
+   "extra": "경기 성남시 분당구 신입 대졸↑ 인턴직 투자분석 , 투자심사 , 투자자산 , 사업제휴 , 시장조사 외 등록일 26/11/13",
    "sources": [
     {
      "name": "사람인",
@@ -2041,6 +1846,26 @@
     }
    ],
    "first_seen": "2026-11-16",
+   "is_new": true
+  },
+  {
+   "source": "사람인",
+   "company": "(재)은행권청년창업재단",
+   "title": "[은행권청년창업재단] 2027년 상반기 디캠프 인턴 채용",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55610920",
+   "deadline": "2026-12-02",
+   "deadline_note": null,
+   "posted": null,
+   "intern": false,
+   "category": "은행·보험·기타",
+   "extra": "서울 마포구 신입 학력무관 인턴직 230 만원 투자분석 , 기술지원 , 유지보수 , 채용담당자 , HRD 외 등록일 26/11/18",
+   "sources": [
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55610920"
+    }
+   ],
+   "first_seen": "2026-11-19",
    "is_new": true
   },
   {
@@ -2085,26 +1910,6 @@
   },
   {
    "source": "사람인",
-   "company": "(재)은행권청년창업재단",
-   "title": "[은행권청년창업재단] 2027년 상반기 디캠프 인턴 채용",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55610920",
-   "deadline": "2026-12-02",
-   "deadline_note": null,
-   "posted": null,
-   "intern": false,
-   "category": "은행·보험·기타",
-   "extra": "서울 마포구 신입 학력무관 인턴직 230 만원 투자분석 , 유지보수 , 사업관리 , 홍보 , 언론홍보 외 등록일 26/11/18",
-   "sources": [
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55610920"
-    }
-   ],
-   "first_seen": "2026-11-19",
-   "is_new": true
-  },
-  {
-   "source": "사람인",
    "company": "정책컨설팅더지음",
    "title": "과학기술정책 및 전략기획 컨설팅 지원 인턴 모집",
    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55176897",
@@ -2113,7 +1918,7 @@
    "posted": null,
    "intern": false,
    "category": "컨설팅",
-   "extra": "서울 금천구 경력무관 대졸↑ 인턴직 220 만원 자료조사 , 정책연구 , 조사분석 수정일 26/11/09",
+   "extra": "서울 금천구 경력무관 대졸↑ 인턴직 220 만원 정책연구 , 자료조사 , 컨설팅 , 조사분석 수정일 26/11/09",
    "sources": [
     {
      "name": "사람인",
@@ -2133,7 +1938,7 @@
    "posted": null,
    "intern": false,
    "category": "증권·IB",
-   "extra": "서울 마포구 경력무관 대졸↑ 인턴직 230 만원 사무직 , 시장조사 , 조사분석 등록일 26/11/09",
+   "extra": "서울 마포구 경력무관 대졸↑ 인턴직 230 만원 사무직 , 시장조사 , 컨설팅 , 조사분석 등록일 26/11/09",
    "sources": [
     {
      "name": "사람인",
@@ -2149,6 +1954,26 @@
   },
   {
    "source": "사람인",
+   "company": "다산회계법인",
+   "title": "[다산회계법인 2본부] 국가 R&D사업 연구비 정산 보조 모집",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55566281",
+   "deadline": "2026-12-13",
+   "deadline_note": null,
+   "posted": null,
+   "intern": false,
+   "category": "회계법인·FAS",
+   "extra": "서울 강남구 경력무관 초대졸↑ 인턴직 회계법인 , 회계법인 등록일 26/11/13",
+   "sources": [
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55566281"
+    }
+   ],
+   "first_seen": "2026-11-19",
+   "is_new": true
+  },
+  {
+   "source": "사람인",
    "company": "아이비커리어",
    "title": "[여의도/인턴] KIS자산평가 경영기획실 파견인턴 모집",
    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55502990",
@@ -2157,7 +1982,7 @@
    "posted": null,
    "intern": false,
    "category": "신용평가",
-   "extra": "서울 영등포구 경력무관 학력무관 파견직 사무직 , 사무행정 , 사무보조 , 서류관리 , ERP 외 등록일 26/11/06",
+   "extra": "서울 영등포구 경력무관 학력무관 파견직 사무직 , 사무행정 , 사무보조 , 서류관리 , 경리 외 등록일 26/11/06",
    "sources": [
     {
      "name": "사람인",
@@ -2286,6 +2111,26 @@
    ],
    "first_seen": "2026-11-07",
    "is_new": false
+  },
+  {
+   "source": "잡알리오",
+   "company": "공무원연금공단",
+   "title": "사회형평적 체험형 청년인턴 채용 공고(3차)",
+   "url": "https://job.alio.go.kr/recruitview.do?idx=306900",
+   "deadline": "2026-11-24",
+   "deadline_note": null,
+   "posted": "2026-11-10",
+   "intern": true,
+   "category": "정책금융·공공",
+   "extra": "청년인턴(체험형)",
+   "sources": [
+    {
+     "name": "잡알리오",
+     "url": "https://job.alio.go.kr/recruitview.do?idx=306900"
+    }
+   ],
+   "first_seen": "2026-11-16",
+   "is_new": true
   },
   {
    "source": "벤처투자포털",
