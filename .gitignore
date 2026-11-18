@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/raw.json
+data/last_run.log
+_site/
