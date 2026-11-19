@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-19 13:06",
- "today": "2026-11-19",
+ "generated_at": "2026-11-20 03:06",
+ "today": "2026-11-20",
  "status": [
   {
    "name": "링커리어",
    "ok": true,
-   "fetched": 1066,
-   "sec": 91.4,
-   "kept": 49
+   "fetched": 1075,
+   "sec": 87.1,
+   "kept": 50
   },
   {
    "name": "자소설닷컴",
    "ok": true,
-   "fetched": 293,
-   "sec": 3.4,
+   "fetched": 296,
+   "sec": 11.8,
    "kept": 6
   },
   {
@@ -29,42 +29,42 @@
    "ok": false,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.wanted.co.kr/api/chaos/search/v1/position?query=%ED%88%AC%EC%9E%90+%EC%9D%B8%ED%84%B4&country=kr&years=-1&sort=job.latest_order&limit=20&off",
    "fetched": 0,
-   "sec": 0.2,
+   "sec": 0.3,
    "kept": 0
   },
   {
    "name": "사람인",
    "ok": true,
-   "fetched": 978,
-   "sec": 49.8,
-   "kept": 32
+   "fetched": 811,
+   "sec": 52.2,
+   "kept": 35
   },
   {
    "name": "잡코리아",
    "ok": true,
-   "fetched": 269,
-   "sec": 23.8,
+   "fetched": 263,
+   "sec": 24.5,
    "kept": 29
   },
   {
    "name": "피플앤잡",
    "ok": true,
-   "fetched": 483,
-   "sec": 29.3,
-   "kept": 8
+   "fetched": 485,
+   "sec": 30.8,
+   "kept": 11
   },
   {
    "name": "잡알리오",
    "ok": true,
-   "fetched": 54,
-   "sec": 14.6,
+   "fetched": 51,
+   "sec": 13.8,
    "kept": 2
   },
   {
    "name": "벤처투자포털",
    "ok": true,
    "fetched": 81,
-   "sec": 12.1,
+   "sec": 13.5,
    "kept": 4
   },
   {
@@ -77,26 +77,350 @@
   {
    "name": "고려대 경영CDC",
    "ok": true,
-   "fetched": 52,
-   "sec": 4.5,
-   "kept": 14
+   "fetched": 53,
+   "sec": 6.2,
+   "kept": 13
   },
   {
    "name": "슈퍼루키",
    "ok": true,
    "fetched": 384,
-   "sec": 40.7,
-   "kept": 18
+   "sec": 41.9,
+   "kept": 20
   },
   {
    "name": "회사 채용페이지",
    "ok": true,
    "fetched": 17,
-   "sec": 69.6,
+   "sec": 71.1,
    "kept": 2
   }
  ],
  "jobs": [
+  {
+   "source": "링커리어",
+   "company": "Forvis Mazars 새빛",
+   "title": "[Forvis Mazars 새빛회계법인] AAOS, Cosec Intern",
+   "url": "https://linkareer.com/activity/365817",
+   "deadline": "2027-02-17",
+   "deadline_note": null,
+   "posted": "2026-11-19",
+   "intern": true,
+   "category": "회계법인·FAS",
+   "extra": "총무/법무/비서",
+   "sources": [
+    {
+     "name": "링커리어",
+     "url": "https://linkareer.com/activity/365817"
+    },
+    {
+     "name": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50398902"
+    },
+    {
+     "name": "피플앤잡",
+     "url": "https://www.peoplenjob.com/jobs/6321532"
+    }
+   ],
+   "first_seen": "2026-11-20",
+   "is_new": true
+  },
+  {
+   "source": "링커리어",
+   "company": "Forvis Mazars 새빛",
+   "title": "[Forvis Mazars 새빛회계법인] 경영지원팀 Finance Intern 모집",
+   "url": "https://linkareer.com/activity/365361",
+   "deadline": "2026-12-18",
+   "deadline_note": "채용시 마감",
+   "posted": null,
+   "intern": true,
+   "category": "회계법인·FAS",
+   "extra": "전체",
+   "sources": [
+    {
+     "name": "링커리어",
+     "url": "https://linkareer.com/activity/365361"
+    },
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55608027"
+    },
+    {
+     "name": "슈퍼루키",
+     "url": "https://www.superookie.com/jobs/6afd2bd0c0c5451edd2874d4"
+    }
+   ],
+   "first_seen": "2026-11-19",
+   "is_new": true
+  },
+  {
+   "source": "링커리어",
+   "company": "Forvis Mazars 새빛",
+   "title": "[Forvis Mazars 새빛회계법인] 회계아웃소싱팀 Payroll Intern 모집",
+   "url": "https://linkareer.com/activity/362166",
+   "deadline": "2026-11-30",
+   "deadline_note": "채용시 마감",
+   "posted": null,
+   "intern": true,
+   "category": "회계법인·FAS",
+   "extra": "인사/채용/노무 사무/문서관리",
+   "sources": [
+    {
+     "name": "링커리어",
+     "url": "https://linkareer.com/activity/362166"
+    },
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55486529"
+    },
+    {
+     "name": "슈퍼루키",
+     "url": "https://www.superookie.com/jobs/6aeb1fdb490cbe1be4211cc2"
+    }
+   ],
+   "first_seen": "2026-11-07",
+   "is_new": false
+  },
+  {
+   "source": "사람인",
+   "company": "Forvis Mazars 새빛",
+   "title": "[포비스마자르 새빛회계법인] 회계아웃소싱팀 Cosec Intern",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55620705",
+   "deadline": "2026-12-19",
+   "deadline_note": null,
+   "posted": null,
+   "intern": false,
+   "category": "회계법인·FAS",
+   "extra": "서울 용산구 경력무관 대졸↑ 인턴직 비서 , 사무보조 , 사무행정 , 서류관리 , 자료입력 외 수정일 26/11/19",
+   "sources": [
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55620705"
+    }
+   ],
+   "first_seen": "2026-11-20",
+   "is_new": true
+  },
+  {
+   "source": "잡코리아",
+   "company": "Forvis Mazars 새빛",
+   "title": "Business Support, GA Intern",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50389791",
+   "deadline": null,
+   "deadline_note": null,
+   "posted": null,
+   "intern": false,
+   "category": "회계법인·FAS",
+   "extra": "재택/원격근무 가능 | 스크랩 | Business Support, GA Intern | 새빛회계법인 | 서울 용산구 | 회계·세무·법무, 총무, 세무담당자, 감사 | 홈페이지 지원 | 경력무관 | • | 재택근무",
+   "sources": [
+    {
+     "name": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50389791"
+    }
+   ],
+   "first_seen": "2026-11-19",
+   "is_new": true
+  },
+  {
+   "source": "잡코리아",
+   "company": "Forvis Mazars 새빛",
+   "title": "AAOS, Payroll Intern",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50307394",
+   "deadline": null,
+   "deadline_note": null,
+   "posted": null,
+   "intern": false,
+   "category": "회계법인·FAS",
+   "extra": "스크랩 | AAOS, Payroll Intern | 새빛회계법인 | 서울 용산구 | 회계·세무·법무, 인사담당자, HRD·HRM, 세무담당자 | 홈페이지 지원 | 경력무관 | • | 4대보험",
+   "sources": [
+    {
+     "name": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50307394"
+    }
+   ],
+   "first_seen": "2026-11-07",
+   "is_new": false
+  },
+  {
+   "source": "슈퍼루키",
+   "company": "Forvis Mazars 새빛",
+   "title": "AOS(회계아웃소싱팀) Cosec 인턴",
+   "url": "https://www.superookie.com/jobs/6afead188657af5f947461b2",
+   "deadline": null,
+   "deadline_note": "채용시 마감",
+   "posted": null,
+   "intern": true,
+   "category": "회계법인·FAS",
+   "extra": "채용시마감 인턴 서울 대졸",
+   "sources": [
+    {
+     "name": "슈퍼루키",
+     "url": "https://www.superookie.com/jobs/6afead188657af5f947461b2"
+    }
+   ],
+   "first_seen": "2026-11-20",
+   "is_new": true
+  },
+  {
+   "source": "링커리어",
+   "company": "딜로이트 안진",
+   "title": "[딜로이트 안진회계법인] 경영자문부문 부동산그룹 정규직 전환형 인턴십",
+   "url": "https://linkareer.com/activity/365735",
+   "deadline": "2026-12-23",
+   "deadline_note": null,
+   "posted": "2026-11-19",
+   "intern": true,
+   "category": "회계법인·FAS",
+   "extra": "전체 전체",
+   "sources": [
+    {
+     "name": "링커리어",
+     "url": "https://linkareer.com/activity/365735"
+    },
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55620831"
+    },
+    {
+     "name": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50399234"
+    },
+    {
+     "name": "피플앤잡",
+     "url": "https://www.peoplenjob.com/jobs/6321531"
+    },
+    {
+     "name": "슈퍼루키",
+     "url": "https://www.superookie.com/jobs/6afea100255b897db76acb73"
+    }
+   ],
+   "first_seen": "2026-11-20",
+   "is_new": true
+  },
+  {
+   "source": "링커리어",
+   "company": "딜로이트 안진",
+   "title": "[딜로이트 안진회계법인] 경영자문부문 Valuation 인턴",
+   "url": "https://linkareer.com/activity/365722",
+   "deadline": "2026-12-17",
+   "deadline_note": null,
+   "posted": "2026-11-19",
+   "intern": true,
+   "category": "회계법인·FAS",
+   "extra": "전체 재무/회계/세무",
+   "sources": [
+    {
+     "name": "링커리어",
+     "url": "https://linkareer.com/activity/365722"
+    },
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55620361"
+    },
+    {
+     "name": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50398841"
+    },
+    {
+     "name": "피플앤잡",
+     "url": "https://www.peoplenjob.com/jobs/6321510"
+    },
+    {
+     "name": "슈퍼루키",
+     "url": "https://www.superookie.com/jobs/6afe9bb969f2e4413c5dd662"
+    }
+   ],
+   "first_seen": "2026-11-20",
+   "is_new": true
+  },
+  {
+   "source": "링커리어",
+   "company": "딜로이트 안진",
+   "title": "[딜로이트 안진회계법인] 회계감사부문 AIS(계리 전문 조직) 인턴 채용",
+   "url": "https://linkareer.com/activity/361578",
+   "deadline": "2026-11-27",
+   "deadline_note": null,
+   "posted": "2026-11-02",
+   "intern": true,
+   "category": "회계법인·FAS",
+   "extra": "전체 전체",
+   "sources": [
+    {
+     "name": "링커리어",
+     "url": "https://linkareer.com/activity/361578"
+    },
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55459195"
+    },
+    {
+     "name": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50288966"
+    },
+    {
+     "name": "피플앤잡",
+     "url": "https://www.peoplenjob.com/jobs/6310948"
+    },
+    {
+     "name": "슈퍼루키",
+     "url": "https://www.superookie.com/jobs/6ae92bc2d210ad1744673162"
+    }
+   ],
+   "first_seen": "2026-11-07",
+   "is_new": false
+  },
+  {
+   "source": "링커리어",
+   "company": "딜로이트 안진",
+   "title": "[딜로이트 안진회계법인] T&T부문 정보보안 컨설팅 인턴",
+   "url": "https://linkareer.com/activity/339219",
+   "deadline": "2026-12-31",
+   "deadline_note": null,
+   "posted": "2026-10-06",
+   "intern": true,
+   "category": "회계법인·FAS",
+   "extra": "전체 전체 전체 전체",
+   "sources": [
+    {
+     "name": "링커리어",
+     "url": "https://linkareer.com/activity/339219"
+    },
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55211113"
+    },
+    {
+     "name": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50114908"
+    },
+    {
+     "name": "피플앤잡",
+     "url": "https://www.peoplenjob.com/jobs/6294196"
+    }
+   ],
+   "first_seen": "2026-11-07",
+   "is_new": false
+  },
+  {
+   "source": "피플앤잡",
+   "company": "딜로이트 안진",
+   "title": "[딜로이트 안진회계법인] 경영자문부문 M&A2 그룹 생명과학 및 헬스케어팀 정규직",
+   "url": "https://www.peoplenjob.com/jobs/6321461",
+   "deadline": "2026-12-03",
+   "deadline_note": null,
+   "posted": "2026-11-19",
+   "intern": false,
+   "category": "회계법인·FAS",
+   "extra": "서울 영등포구 인턴.신입 11.19 ~ 12.03",
+   "sources": [
+    {
+     "name": "피플앤잡",
+     "url": "https://www.peoplenjob.com/jobs/6321461"
+    }
+   ],
+   "first_seen": "2026-11-20",
+   "is_new": true
+  },
   {
    "source": "링커리어",
    "company": "카카오뱅크",
@@ -148,30 +472,6 @@
   {
    "source": "링커리어",
    "company": "카카오뱅크",
-   "title": "[카카오뱅크] 대출비교서비스 운영 어시스턴트 (체험형 인턴)",
-   "url": "https://linkareer.com/activity/364210",
-   "deadline": "2026-11-19",
-   "deadline_note": null,
-   "posted": null,
-   "intern": true,
-   "category": "은행·보험·기타",
-   "extra": "서비스기획/운영",
-   "sources": [
-    {
-     "name": "링커리어",
-     "url": "https://linkareer.com/activity/364210"
-    },
-    {
-     "name": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50384928"
-    }
-   ],
-   "first_seen": "2026-11-16",
-   "is_new": true
-  },
-  {
-   "source": "링커리어",
-   "company": "카카오뱅크",
    "title": "[카카오뱅크] AI 서비스 기획 어시스턴트 (체험형 인턴)",
    "url": "https://linkareer.com/activity/363960",
    "deadline": "2026-11-25",
@@ -187,7 +487,7 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -211,7 +511,7 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -231,7 +531,7 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -275,7 +575,7 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -403,7 +703,7 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "잡코리아",
@@ -444,102 +744,6 @@
    ],
    "first_seen": "2026-11-19",
    "is_new": true
-  },
-  {
-   "source": "링커리어",
-   "company": "Forvis Mazars 새빛",
-   "title": "[Forvis Mazars 새빛회계법인] 경영지원팀 Finance Intern 모집",
-   "url": "https://linkareer.com/activity/365361",
-   "deadline": "2026-12-18",
-   "deadline_note": "채용시 마감",
-   "posted": null,
-   "intern": true,
-   "category": "회계법인·FAS",
-   "extra": "전체",
-   "sources": [
-    {
-     "name": "링커리어",
-     "url": "https://linkareer.com/activity/365361"
-    },
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55608027"
-    },
-    {
-     "name": "슈퍼루키",
-     "url": "https://www.superookie.com/jobs/6afd2bd0c0c5451edd2874d4"
-    }
-   ],
-   "first_seen": "2026-11-19",
-   "is_new": true
-  },
-  {
-   "source": "링커리어",
-   "company": "Forvis Mazars 새빛",
-   "title": "[Forvis Mazars 새빛회계법인] 회계아웃소싱팀 Payroll Intern 모집",
-   "url": "https://linkareer.com/activity/362166",
-   "deadline": "2026-11-30",
-   "deadline_note": "채용시 마감",
-   "posted": null,
-   "intern": true,
-   "category": "회계법인·FAS",
-   "extra": "인사/채용/노무 사무/문서관리",
-   "sources": [
-    {
-     "name": "링커리어",
-     "url": "https://linkareer.com/activity/362166"
-    },
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55486529"
-    },
-    {
-     "name": "슈퍼루키",
-     "url": "https://www.superookie.com/jobs/6aeb1fdb490cbe1be4211cc2"
-    }
-   ],
-   "first_seen": "2026-11-07",
-   "is_new": false
-  },
-  {
-   "source": "잡코리아",
-   "company": "Forvis Mazars 새빛",
-   "title": "Business Support, GA Intern",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50389791",
-   "deadline": null,
-   "deadline_note": null,
-   "posted": null,
-   "intern": false,
-   "category": "회계법인·FAS",
-   "extra": "재택/원격근무 가능 | 스크랩 | Business Support, GA Intern | 새빛회계법인 | 서울 용산구 | 회계·세무·법무, 총무, 세무담당자, 감사 | 홈페이지 지원 | 경력무관 | • | 재택근무",
-   "sources": [
-    {
-     "name": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50389791"
-    }
-   ],
-   "first_seen": "2026-11-19",
-   "is_new": true
-  },
-  {
-   "source": "잡코리아",
-   "company": "Forvis Mazars 새빛",
-   "title": "AAOS, Payroll Intern",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50307394",
-   "deadline": null,
-   "deadline_note": null,
-   "posted": null,
-   "intern": false,
-   "category": "회계법인·FAS",
-   "extra": "스크랩 | AAOS, Payroll Intern | 새빛회계법인 | 서울 용산구 | 회계·세무·법무, 인사담당자, HRD·HRM, 세무담당자 | 홈페이지 지원 | 경력무관 | • | 4대보험",
-   "sources": [
-    {
-     "name": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50307394"
-    }
-   ],
-   "first_seen": "2026-11-07",
-   "is_new": false
   },
   {
    "source": "링커리어",
@@ -615,7 +819,7 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -643,7 +847,7 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -660,6 +864,10 @@
     {
      "name": "링커리어",
      "url": "https://linkareer.com/activity/364609"
+    },
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55615280"
     },
     {
      "name": "금융투자협회",
@@ -707,7 +915,7 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -727,7 +935,7 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -747,7 +955,7 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -755,7 +963,7 @@
    "title": "[삼정KPMG] Deal Adv 3본부 인턴 채용",
    "url": "https://linkareer.com/activity/363160",
    "deadline": "2026-11-20",
-   "deadline_note": "내일마감",
+   "deadline_note": "오늘마감",
    "posted": null,
    "intern": true,
    "category": "회계법인·FAS",
@@ -775,54 +983,6 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
-  },
-  {
-   "source": "사람인",
-   "company": "삼정KPMG",
-   "title": "[삼정KPMG] 감사업무보조 단기 인턴",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55493356",
-   "deadline": null,
-   "deadline_note": "오늘마감",
-   "posted": null,
-   "intern": false,
-   "category": "회계법인·FAS",
-   "extra": "서울 강남구 신입 대졸↑ 계약직 사무행정 , 사무직 , 사무보조 , 감사 , 회계 외 수정일 26/11/05",
-   "sources": [
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55493356"
-    },
-    {
-     "name": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50311681"
-    }
-   ],
-   "first_seen": "2026-11-07",
-   "is_new": false
-  },
-  {
-   "source": "잡코리아",
-   "company": "삼정KPMG",
-   "title": "[삼정KPMG] 2026년 ADC 기말업무보조 단기 인턴 채용",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50311385",
-   "deadline": "2026-11-19",
-   "deadline_note": null,
-   "posted": "2026-11-11",
-   "intern": false,
-   "category": "회계법인·FAS",
-   "extra": "오늘 마감! 놓치지 마세요! | 스크랩 | [삼정KPMG] 2026년 ADC 기말업무보조 단기 인턴 채용 | 삼정회계법인 | 서울 강남구 | 회계·세무·법무, 사무보조, 회계담당자, 감사 | 홈페이지 지원 | 신입",
-   "sources": [
-    {
-     "name": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50311385"
-    },
-    {
-     "name": "고려대 경영CDC",
-     "url": "https://biz.korea.ac.kr/cdc/recruitment/recruitment_view.html?no=14884"
-    }
-   ],
-   "first_seen": "2026-11-09",
    "is_new": false
   },
   {
@@ -855,7 +1015,7 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -863,7 +1023,7 @@
    "title": "[예금보험공사] 제28기 동계 대학생인턴 모집 안내",
    "url": "https://linkareer.com/activity/363211",
    "deadline": "2026-11-20",
-   "deadline_note": "내일마감",
+   "deadline_note": null,
    "posted": "2026-11-06",
    "intern": true,
    "category": "정책금융·공공",
@@ -872,10 +1032,6 @@
     {
      "name": "링커리어",
      "url": "https://linkareer.com/activity/363211"
-    },
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55485462"
     },
     {
      "name": "잡알리오",
@@ -903,7 +1059,7 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -951,154 +1107,6 @@
   },
   {
    "source": "링커리어",
-   "company": "딜로이트 안진",
-   "title": "[딜로이트 안진회계법인] 회계감사부문 Audit DC 감사지원업무(조회서 조서화) 인턴 채용",
-   "url": "https://linkareer.com/activity/362432",
-   "deadline": "2026-11-19",
-   "deadline_note": "16시마감",
-   "posted": "2026-11-05",
-   "intern": true,
-   "category": "회계법인·FAS",
-   "extra": "전체",
-   "sources": [
-    {
-     "name": "링커리어",
-     "url": "https://linkareer.com/activity/362432"
-    },
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55494542"
-    },
-    {
-     "name": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50311800"
-    },
-    {
-     "name": "피플앤잡",
-     "url": "https://www.peoplenjob.com/jobs/6312915"
-    },
-    {
-     "name": "고려대 경영CDC",
-     "url": "https://biz.korea.ac.kr/cdc/recruitment/recruitment_view.html?no=14886"
-    },
-    {
-     "name": "슈퍼루키",
-     "url": "https://www.superookie.com/jobs/6aec202240a41b260e67ddd4"
-    }
-   ],
-   "first_seen": "2026-11-07",
-   "is_new": false
-  },
-  {
-   "source": "링커리어",
-   "company": "딜로이트 안진",
-   "title": "[딜로이트 안진회계법인] 회계감사부문 AIS(계리 전문 조직) 인턴 채용",
-   "url": "https://linkareer.com/activity/361578",
-   "deadline": "2026-11-27",
-   "deadline_note": null,
-   "posted": "2026-11-02",
-   "intern": true,
-   "category": "회계법인·FAS",
-   "extra": "전체 전체",
-   "sources": [
-    {
-     "name": "링커리어",
-     "url": "https://linkareer.com/activity/361578"
-    },
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55459195"
-    },
-    {
-     "name": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50288966"
-    },
-    {
-     "name": "피플앤잡",
-     "url": "https://www.peoplenjob.com/jobs/6310948"
-    },
-    {
-     "name": "슈퍼루키",
-     "url": "https://www.superookie.com/jobs/6ae92bc2d210ad1744673162"
-    }
-   ],
-   "first_seen": "2026-11-07",
-   "is_new": false
-  },
-  {
-   "source": "링커리어",
-   "company": "딜로이트 안진",
-   "title": "[딜로이트 안진회계법인] T&T부문 정보보안 컨설팅 인턴",
-   "url": "https://linkareer.com/activity/339219",
-   "deadline": "2026-12-31",
-   "deadline_note": null,
-   "posted": "2026-10-06",
-   "intern": true,
-   "category": "회계법인·FAS",
-   "extra": "전체 전체 전체 전체",
-   "sources": [
-    {
-     "name": "링커리어",
-     "url": "https://linkareer.com/activity/339219"
-    },
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55211113"
-    },
-    {
-     "name": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50114908"
-    },
-    {
-     "name": "피플앤잡",
-     "url": "https://www.peoplenjob.com/jobs/6294196"
-    }
-   ],
-   "first_seen": "2026-11-07",
-   "is_new": false
-  },
-  {
-   "source": "사람인",
-   "company": "딜로이트 안진",
-   "title": "[딜로이트 안진회계법인]감사지원업무(조회서 수발신) 인턴 채용",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55494481",
-   "deadline": null,
-   "deadline_note": "16시마감",
-   "posted": null,
-   "intern": false,
-   "category": "회계법인·FAS",
-   "extra": "서울 영등포구 신입 대졸↑ 인턴직 감사 , 회계법인 등록일 26/11/05",
-   "sources": [
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55494481"
-    }
-   ],
-   "first_seen": "2026-11-07",
-   "is_new": false
-  },
-  {
-   "source": "잡코리아",
-   "company": "딜로이트 안진",
-   "title": "[딜로이트 안진회계법인] 회계감사부문 감사지원업무(조회서 수발신) 인턴",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50311692",
-   "deadline": null,
-   "deadline_note": null,
-   "posted": null,
-   "intern": false,
-   "category": "회계법인·FAS",
-   "extra": "오늘 마감! 놓치지 마세요! | 스크랩 | [딜로이트 안진회계법인] 회계감사부문 감사지원업무(조회서 수발신) 인턴 | 안진회계법인 | 서울 영등포구 | 회계·세무·법무, 회계담당자, 감사 | 홈페이지 지원 | 신입",
-   "sources": [
-    {
-     "name": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50311692"
-    }
-   ],
-   "first_seen": "2026-11-07",
-   "is_new": false
-  },
-  {
-   "source": "링커리어",
    "company": "비에이아이오엔피",
    "title": "[인턴] Private Equity",
    "url": "https://linkareer.com/activity/362157",
@@ -1123,7 +1131,7 @@
    "title": "[삼일회계법인] 삼일피더블유씨엑셀러레이션센터 AC Public팀 사업비정산 부문 인턴 채용",
    "url": "https://linkareer.com/activity/361522",
    "deadline": "2026-11-20",
-   "deadline_note": "내일마감",
+   "deadline_note": "오늘마감",
    "posted": "2026-11-02",
    "intern": true,
    "category": "회계법인·FAS",
@@ -1299,7 +1307,7 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "슈퍼루키",
@@ -1387,7 +1395,7 @@
    "posted": null,
    "intern": false,
    "category": "VC",
-   "extra": "경기 성남시 분당구 경력무관 고졸↑ 인턴직 총무 , 회계 , 경영지원 수정일 26/11/10",
+   "extra": "경기 성남시 분당구 경력무관 고졸↑ 인턴직 총무 , 경영지원 , 회계 수정일 26/11/10",
    "sources": [
     {
      "name": "사람인",
@@ -1667,7 +1675,7 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "자소설닷컴",
@@ -1731,6 +1739,26 @@
     }
    ],
    "first_seen": "2026-11-16",
+   "is_new": false
+  },
+  {
+   "source": "사람인",
+   "company": "모아저축은행",
+   "title": "2027년 상반기 모아저축은행 채용연계형 인턴 및 경력직 모집",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55616766",
+   "deadline": "2026-11-29",
+   "deadline_note": null,
+   "posted": null,
+   "intern": false,
+   "category": "은행·보험·기타",
+   "extra": "인천 미추홀구 신입·경력 학력무관 정규직·인턴직 증권영업 , 금융상품영업 , 고객관리 , 영업 , 금융사무 외 수정일 26/11/20",
+   "sources": [
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55616766"
+    }
+   ],
+   "first_seen": "2026-11-20",
    "is_new": true
   },
   {
@@ -1775,26 +1803,6 @@
   },
   {
    "source": "사람인",
-   "company": "오로라투자자문",
-   "title": "[오로라투자자문] 운영지원·백오피스 신입/인턴 채용",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55339773",
-   "deadline": null,
-   "deadline_note": "오늘마감",
-   "posted": null,
-   "intern": false,
-   "category": "자산운용",
-   "extra": "서울 강남구 경력무관 학력무관 계약직 금융사무 , 투자자문사 , 투자상담 등록일 26/10/20",
-   "sources": [
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55339773"
-    }
-   ],
-   "first_seen": "2026-11-07",
-   "is_new": false
-  },
-  {
-   "source": "사람인",
    "company": "로렌스투자자산운용",
    "title": "[로렌스투자자산운용(주)] 투자본부 채용연계형 인턴 채용",
    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55594241",
@@ -1831,7 +1839,7 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "사람인",
@@ -1843,7 +1851,7 @@
    "posted": null,
    "intern": false,
    "category": "VC",
-   "extra": "경기 성남시 분당구 신입 대졸↑ 인턴직 투자분석 , 투자심사 , 엑셀러레이팅 , 신사업발굴 , 트렌드분석 외 등록일 26/11/13",
+   "extra": "경기 성남시 분당구 신입 대졸↑ 인턴직 투자분석 , 투자심사 , 사업제휴 , 시장조사 , 신사업발굴 외 등록일 26/11/13",
    "sources": [
     {
      "name": "사람인",
@@ -1855,6 +1863,26 @@
     }
    ],
    "first_seen": "2026-11-16",
+   "is_new": false
+  },
+  {
+   "source": "사람인",
+   "company": "(재)은행권청년창업재단",
+   "title": "[은행권청년창업재단] 2027년 상반기 디캠프 인턴 채용",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55610920",
+   "deadline": "2026-12-02",
+   "deadline_note": null,
+   "posted": null,
+   "intern": false,
+   "category": "은행·보험·기타",
+   "extra": "서울 마포구 신입 학력무관 인턴직 230 만원 투자분석 , 기술지원 , 유지보수 , 채용담당자 , HRD 외 등록일 26/11/18",
+   "sources": [
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55610920"
+    }
+   ],
+   "first_seen": "2026-11-19",
    "is_new": true
   },
   {
@@ -1899,70 +1927,6 @@
   },
   {
    "source": "사람인",
-   "company": "(재)은행권청년창업재단",
-   "title": "[은행권청년창업재단] 2027년 상반기 디캠프 인턴 채용",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55610920",
-   "deadline": "2026-12-02",
-   "deadline_note": null,
-   "posted": null,
-   "intern": false,
-   "category": "은행·보험·기타",
-   "extra": "서울 마포구 신입 학력무관 인턴직 230 만원 투자분석 , 유지보수 , 사업관리 , 홍보 , 언론홍보 외 등록일 26/11/18",
-   "sources": [
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55610920"
-    }
-   ],
-   "first_seen": "2026-11-19",
-   "is_new": true
-  },
-  {
-   "source": "사람인",
-   "company": "정책컨설팅더지음",
-   "title": "과학기술정책 및 전략기획 컨설팅 지원 인턴 모집",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55176897",
-   "deadline": "2026-11-30",
-   "deadline_note": null,
-   "posted": null,
-   "intern": false,
-   "category": "컨설팅",
-   "extra": "서울 금천구 경력무관 대졸↑ 인턴직 220 만원 자료조사 , 정책연구 , 조사분석 수정일 26/11/09",
-   "sources": [
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55176897"
-    }
-   ],
-   "first_seen": "2026-11-07",
-   "is_new": false
-  },
-  {
-   "source": "사람인",
-   "company": "한국능률협회플러스",
-   "title": "(주)한국능률협회플러스 리서치센터 인턴(RA) 채용",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55523408",
-   "deadline": null,
-   "deadline_note": "내일마감",
-   "posted": null,
-   "intern": false,
-   "category": "증권·IB",
-   "extra": "서울 마포구 경력무관 대졸↑ 인턴직 230 만원 사무직 , 시장조사 , 조사분석 등록일 26/11/09",
-   "sources": [
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55523408"
-    },
-    {
-     "name": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50332474"
-    }
-   ],
-   "first_seen": "2026-11-16",
-   "is_new": true
-  },
-  {
-   "source": "사람인",
    "company": "보험계리법인지아컨설팅",
    "title": "보험계리법인지아컨설팅(주) 인턴 모집",
    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55617257",
@@ -1983,6 +1947,114 @@
     }
    ],
    "first_seen": "2026-11-19",
+   "is_new": true
+  },
+  {
+   "source": "사람인",
+   "company": "정책컨설팅더지음",
+   "title": "과학기술정책 및 전략기획 컨설팅 지원 인턴 모집",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55176897",
+   "deadline": "2026-11-30",
+   "deadline_note": null,
+   "posted": null,
+   "intern": false,
+   "category": "컨설팅",
+   "extra": "서울 금천구 경력무관 대졸↑ 인턴직 220 만원 정책연구 , 자료조사 , 컨설팅 , 조사분석 수정일 26/11/09",
+   "sources": [
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55176897"
+    }
+   ],
+   "first_seen": "2026-11-07",
+   "is_new": false
+  },
+  {
+   "source": "사람인",
+   "company": "다산회계법인",
+   "title": "[다산회계법인 2본부] 국가 R&D사업 연구비 정산 보조 모집",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55566281",
+   "deadline": "2026-12-13",
+   "deadline_note": null,
+   "posted": null,
+   "intern": false,
+   "category": "회계법인·FAS",
+   "extra": "서울 강남구 경력무관 초대졸↑ 인턴직 회계법인 , 회계법인 등록일 26/11/13",
+   "sources": [
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55566281"
+    }
+   ],
+   "first_seen": "2026-11-20",
+   "is_new": true
+  },
+  {
+   "source": "사람인",
+   "company": "서울평가정보",
+   "title": "기업신용평가 영업마케팅 인턴 채용 (채용연계형)",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55622160",
+   "deadline": "2026-12-19",
+   "deadline_note": null,
+   "posted": null,
+   "intern": false,
+   "category": "신용평가",
+   "extra": "서울 영등포구 경력무관 대졸↑ 계약직 고객관리 , 기업영업 , 금융기관 수정일 26/11/19",
+   "sources": [
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55622160"
+    },
+    {
+     "name": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50400523"
+    }
+   ],
+   "first_seen": "2026-11-20",
+   "is_new": true
+  },
+  {
+   "source": "사람인",
+   "company": "한국능률협회플러스",
+   "title": "(주)한국능률협회플러스 리서치센터 인턴(RA) 채용",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55523408",
+   "deadline": null,
+   "deadline_note": "17시마감",
+   "posted": null,
+   "intern": false,
+   "category": "증권·IB",
+   "extra": "서울 마포구 경력무관 대졸↑ 인턴직 230 만원 사무직 , 시장조사 , 컨설팅 , 조사분석 등록일 26/11/09",
+   "sources": [
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55523408"
+    },
+    {
+     "name": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50332474"
+    }
+   ],
+   "first_seen": "2026-11-16",
+   "is_new": false
+  },
+  {
+   "source": "사람인",
+   "company": "아이비커리어",
+   "title": "[여의도/인턴] KIS자산평가 경영기획실 파견인턴 모집",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55502990",
+   "deadline": null,
+   "deadline_note": "채용시",
+   "posted": null,
+   "intern": false,
+   "category": "신용평가",
+   "extra": "서울 영등포구 경력무관 학력무관 파견직 경리 , 경리사무원 , 전산회계 , AICPA , CFA 외 등록일 26/11/06",
+   "sources": [
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55502990"
+    }
+   ],
+   "first_seen": "2026-11-20",
    "is_new": true
   },
   {
@@ -2023,6 +2095,26 @@
     }
    ],
    "first_seen": "2026-11-16",
+   "is_new": false
+  },
+  {
+   "source": "잡코리아",
+   "company": "엣지컨설팅",
+   "title": "공공기관 경영평가 정책연구 인턴 연구원 모집(정규직 전환 가능)",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50394140",
+   "deadline": null,
+   "deadline_note": null,
+   "posted": null,
+   "intern": false,
+   "category": "컨설팅",
+   "extra": "스크랩 | 공공기관 경영평가 정책연구 인턴 연구원 모집(정규직 전환 가능) | ㈜엣지컨설팅 | 서울 강서구 | 컨설팅·연구·조사, 컨설턴트, 경영지원 | 연봉 3,000만원~ | 즉시 지원 | 경력무관",
+   "sources": [
+    {
+     "name": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50394140"
+    }
+   ],
+   "first_seen": "2026-11-20",
    "is_new": true
   },
   {
@@ -2035,7 +2127,7 @@
    "posted": null,
    "intern": false,
    "category": "은행·보험·기타",
-   "extra": "신입 지원 가능 | 스크랩 | [은행권청년창업재단] 2027년 상반기 디캠프 인턴 채용 | 재단법인 은행권청년창업재단 | 서울 마포구 | 협회·단체, 경영·비즈니스기획, HRD·HRM, 홍보 | 홈페이지 지원 | 신입",
+   "extra": "인턴 채용 진행중 | 스크랩 | [은행권청년창업재단] 2027년 상반기 디캠프 인턴 채용 | 재단법인 은행권청년창업재단 | 서울 마포구 | 협회·단체, 경영·비즈니스기획, HRD·HRM, 홍보 | 홈페이지 지원 | 신입",
    "sources": [
     {
      "name": "잡코리아",
@@ -2083,7 +2175,7 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "피플앤잡",
@@ -2123,7 +2215,7 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "벤처투자포털",
@@ -2223,7 +2315,7 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "금융투자협회",
@@ -2283,7 +2375,7 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "금융투자협회",
@@ -2303,7 +2395,7 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "금융투자협회",
@@ -2747,6 +2839,26 @@
   },
   {
    "source": "고려대 경영CDC",
+   "company": "NH-Amundi자산운용",
+   "title": "[NH-Amundi자산운용] 주식운용부문 주식리서치본부 인턴사원 채용공고",
+   "url": "https://biz.korea.ac.kr/cdc/recruitment/recruitment_view.html?no=14926",
+   "deadline": "2026-12-02",
+   "deadline_note": null,
+   "posted": "2026-11-19",
+   "intern": true,
+   "category": "자산운용",
+   "extra": "리서치 인턴",
+   "sources": [
+    {
+     "name": "고려대 경영CDC",
+     "url": "https://biz.korea.ac.kr/cdc/recruitment/recruitment_view.html?no=14926"
+    }
+   ],
+   "first_seen": "2026-11-20",
+   "is_new": true
+  },
+  {
+   "source": "고려대 경영CDC",
    "company": "컴퍼니파트너스",
    "title": "[Company Partners] Private Equity 겨울 인턴 공고",
    "url": "https://biz.korea.ac.kr/cdc/recruitment/recruitment_view.html?no=14924",
@@ -2883,7 +2995,7 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "고려대 경영CDC",
@@ -2903,7 +3015,7 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "고려대 경영CDC",
