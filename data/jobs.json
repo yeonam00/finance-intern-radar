@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-22 11:58",
- "today": "2026-11-22",
+ "generated_at": "2026-11-23 02:02",
+ "today": "2026-11-23",
  "status": [
   {
    "name": "링커리어",
    "ok": true,
-   "fetched": 1067,
-   "sec": 80.0,
-   "kept": 48
+   "fetched": 1029,
+   "sec": 71.5,
+   "kept": 44
   },
   {
    "name": "자소설닷컴",
    "ok": true,
-   "fetched": 291,
-   "sec": 6.6,
+   "fetched": 258,
+   "sec": 11.8,
    "kept": 8
   },
   {
@@ -21,7 +21,7 @@
    "ok": false,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.catch.co.kr/api/v1.0/recruit/information/getRecruitList?Keyword=%EC%9D%B8%ED%84%B4&Sort=0&curpage=1&pageSize=100&onRecruitYN=Y",
    "fetched": 0,
-   "sec": 0.6,
+   "sec": 0.5,
    "kept": 0
   },
   {
@@ -35,64 +35,64 @@
   {
    "name": "사람인",
    "ok": true,
-   "fetched": 757,
-   "sec": 50.7,
-   "kept": 34
+   "fetched": 753,
+   "sec": 45.1,
+   "kept": 31
   },
   {
    "name": "잡코리아",
    "ok": true,
-   "fetched": 261,
-   "sec": 25.8,
-   "kept": 30
+   "fetched": 267,
+   "sec": 29.6,
+   "kept": 29
   },
   {
    "name": "피플앤잡",
    "ok": true,
-   "fetched": 491,
-   "sec": 31.9,
+   "fetched": 481,
+   "sec": 29.0,
    "kept": 9
   },
   {
    "name": "잡알리오",
    "ok": true,
-   "fetched": 55,
-   "sec": 14.7,
+   "fetched": 57,
+   "sec": 12.4,
    "kept": 1
   },
   {
    "name": "벤처투자포털",
    "ok": true,
-   "fetched": 83,
-   "sec": 13.4,
-   "kept": 4
+   "fetched": 80,
+   "sec": 12.0,
+   "kept": 3
   },
   {
    "name": "금융투자협회",
    "ok": true,
-   "fetched": 75,
-   "sec": 20.3,
-   "kept": 33
+   "fetched": 74,
+   "sec": 16.9,
+   "kept": 30
   },
   {
    "name": "고려대 경영CDC",
    "ok": true,
-   "fetched": 49,
-   "sec": 5.8,
+   "fetched": 46,
+   "sec": 4.8,
    "kept": 11
   },
   {
    "name": "슈퍼루키",
    "ok": true,
    "fetched": 384,
-   "sec": 41.2,
-   "kept": 19
+   "sec": 41.1,
+   "kept": 17
   },
   {
    "name": "회사 채용페이지",
    "ok": true,
    "fetched": 18,
-   "sec": 69.3,
+   "sec": 70.9,
    "kept": 2
   }
  ],
@@ -195,7 +195,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -395,7 +395,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -483,7 +483,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "슈퍼루키",
@@ -671,7 +671,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -699,7 +699,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -727,7 +727,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -751,7 +751,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "사람인",
@@ -810,26 +810,6 @@
    "is_new": true
   },
   {
-   "source": "잡코리아",
-   "company": "EY한영",
-   "title": "감사부문 포렌식팀 인턴",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50372425",
-   "deadline": null,
-   "deadline_note": null,
-   "posted": null,
-   "intern": false,
-   "category": "회계법인·FAS",
-   "extra": "오늘 마감! 놓치지 마세요! | 스크랩 | 감사부문 포렌식팀 인턴 | 한영회계법인 | 서울 영등포구 | 회계·세무·법무, 컨설턴트 | 홈페이지 지원 | 신입",
-   "sources": [
-    {
-     "name": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50372425"
-    }
-   ],
-   "first_seen": "2026-11-19",
-   "is_new": true
-  },
-  {
    "source": "링커리어",
    "company": "은행권청년창업재단 디캠프",
    "title": "[은행권청년창업재단] 2027년 상반기 디캠프 인턴 채용",
@@ -847,7 +827,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -875,54 +855,6 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
-  },
-  {
-   "source": "링커리어",
-   "company": "한국자산평가",
-   "title": "[한국자산평가][솔루션, 컨설팅] 경력 및 신입(인턴)직원 채용 공고",
-   "url": "https://linkareer.com/activity/365244",
-   "deadline": "2026-11-22",
-   "deadline_note": "오늘마감",
-   "posted": "2026-11-16",
-   "intern": true,
-   "category": "신용평가",
-   "extra": "보험심사/손해사정 리스크/컴플라이언스",
-   "sources": [
-    {
-     "name": "링커리어",
-     "url": "https://linkareer.com/activity/365244"
-    },
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55587328"
-    },
-    {
-     "name": "금융투자협회",
-     "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43167"
-    }
-   ],
-   "first_seen": "2026-11-19",
-   "is_new": true
-  },
-  {
-   "source": "금융투자협회",
-   "company": "한국자산평가",
-   "title": "[한국자산평가][대체평가1,2사업본부] 경력 및 신입(인턴) 채용 공고",
-   "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43069",
-   "deadline": null,
-   "deadline_note": null,
-   "posted": "2026-11-09",
-   "intern": false,
-   "category": "신용평가",
-   "extra": "금융투자회사",
-   "sources": [
-    {
-     "name": "금융투자협회",
-     "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43069"
-    }
-   ],
-   "first_seen": "2026-11-16",
    "is_new": false
   },
   {
@@ -931,7 +863,7 @@
    "title": "[SK증권] 체험형 Internship 시행",
    "url": "https://linkareer.com/activity/364878",
    "deadline": "2026-11-24",
-   "deadline_note": null,
+   "deadline_note": "내일마감",
    "posted": null,
    "intern": true,
    "category": "증권·IB",
@@ -951,54 +883,6 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": false
-  },
-  {
-   "source": "링커리어",
-   "company": "KB자산운용",
-   "title": "[KB자산운용] 글로벌대체투자본부 인턴 채용 (~11/22)",
-   "url": "https://linkareer.com/activity/364609",
-   "deadline": "2026-11-22",
-   "deadline_note": "오늘마감",
-   "posted": "2026-11-16",
-   "intern": true,
-   "category": "자산운용",
-   "extra": "재무/회계/세무 자산운용/펀드",
-   "sources": [
-    {
-     "name": "링커리어",
-     "url": "https://linkareer.com/activity/364609"
-    },
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55615280"
-    },
-    {
-     "name": "금융투자협회",
-     "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43160"
-    }
-   ],
-   "first_seen": "2026-11-19",
-   "is_new": true
-  },
-  {
-   "source": "금융투자협회",
-   "company": "KB자산운용",
-   "title": "[KB자산운용] 준법추진본부 인턴 채용",
-   "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42562",
-   "deadline": null,
-   "deadline_note": null,
-   "posted": "2026-10-07",
-   "intern": false,
-   "category": "자산운용",
-   "extra": "금융투자회사",
-   "sources": [
-    {
-     "name": "금융투자협회",
-     "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42562"
-    }
-   ],
-   "first_seen": "2026-11-07",
    "is_new": false
   },
   {
@@ -1115,38 +999,6 @@
   },
   {
    "source": "링커리어",
-   "company": "교보생명",
-   "title": "[교보생명] 2026 채용연계형 인턴 모집",
-   "url": "https://linkareer.com/activity/363965",
-   "deadline": "2026-11-22",
-   "deadline_note": null,
-   "posted": "2026-11-12",
-   "intern": true,
-   "category": "은행·보험·기타",
-   "extra": "B2B영업 자산운용/펀드",
-   "sources": [
-    {
-     "name": "링커리어",
-     "url": "https://linkareer.com/activity/363965"
-    },
-    {
-     "name": "자소설닷컴",
-     "url": "https://jasoseol.com/recruit/107191"
-    },
-    {
-     "name": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50346337"
-    },
-    {
-     "name": "슈퍼루키",
-     "url": "https://www.superookie.com/jobs/6af522cbcf243a65e53dc052"
-    }
-   ],
-   "first_seen": "2026-11-16",
-   "is_new": false
-  },
-  {
-   "source": "링커리어",
    "company": "비에이아이오엔피",
    "title": "[인턴] Private Equity",
    "url": "https://linkareer.com/activity/362157",
@@ -1188,54 +1040,6 @@
     {
      "name": "슈퍼루키",
      "url": "https://www.superookie.com/jobs/6ae82ada40fc5378ac0d0463"
-    }
-   ],
-   "first_seen": "2026-11-07",
-   "is_new": false
-  },
-  {
-   "source": "링커리어",
-   "company": "카카오벤처스",
-   "title": "카카오벤처스 기획관리팀 체험형 인턴",
-   "url": "https://linkareer.com/activity/361365",
-   "deadline": "2026-11-22",
-   "deadline_note": null,
-   "posted": "2026-11-02",
-   "intern": true,
-   "category": "VC",
-   "extra": "전체",
-   "sources": [
-    {
-     "name": "링커리어",
-     "url": "https://linkareer.com/activity/361365"
-    },
-    {
-     "name": "벤처투자포털",
-     "url": "https://www.vcs.go.kr/web/portal/recruitment/view/41a013d4d67a11f1a4b6f220ef0ee4a5/all"
-    },
-    {
-     "name": "슈퍼루키",
-     "url": "https://www.superookie.com/jobs/6ae8233caddf442c8a499682"
-    }
-   ],
-   "first_seen": "2026-11-07",
-   "is_new": false
-  },
-  {
-   "source": "사람인",
-   "company": "카카오벤처스",
-   "title": "기획관리팀 2027 상반기 체험형 인턴",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55503927",
-   "deadline": null,
-   "deadline_note": "오늘마감",
-   "posted": null,
-   "intern": false,
-   "category": "VC",
-   "extra": "경기 성남시 분당구 경력무관 고졸↑ 인턴직 총무 , 경영지원 , 회계 수정일 26/11/10",
-   "sources": [
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55503927"
     }
    ],
    "first_seen": "2026-11-07",
@@ -1411,7 +1215,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -1631,7 +1435,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "자소설닷컴",
@@ -1651,6 +1455,26 @@
     }
    ],
    "first_seen": "2026-11-19",
+   "is_new": false
+  },
+  {
+   "source": "자소설닷컴",
+   "company": "OK금융그룹",
+   "title": "2026 AI Native 채용형 인턴 공개모집",
+   "url": "https://jasoseol.com/recruit/107333",
+   "deadline": "2026-12-06",
+   "deadline_note": null,
+   "posted": "2026-11-23",
+   "intern": true,
+   "category": "은행·보험·기타",
+   "extra": "",
+   "sources": [
+    {
+     "name": "자소설닷컴",
+     "url": "https://jasoseol.com/recruit/107333"
+    }
+   ],
+   "first_seen": "2026-11-23",
    "is_new": true
   },
   {
@@ -1735,7 +1559,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "사람인",
@@ -1755,7 +1579,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "사람인",
@@ -1783,23 +1607,23 @@
   },
   {
    "source": "사람인",
-   "company": "교보생명보험",
-   "title": "2026년 교보생명 채용연계형 인턴 모집",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55554659",
-   "deadline": null,
-   "deadline_note": "오늘마감",
+   "company": "오케이금융그룹",
+   "title": "OK금융그룹 채용형 인턴 공개모집",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55616713",
+   "deadline": "2026-12-06",
+   "deadline_note": null,
    "posted": null,
    "intern": false,
    "category": "은행·보험·기타",
-   "extra": "전국 신입 대졸↑ 정규직·인턴직 자산운용 , 자산운용사 , 펀드매니저 , 기업금융 , 금융사무 외 수정일 26/11/12",
+   "extra": "서울 중구 경력무관 대졸↑ 인턴직 자산운용 , 자산운용사 , 기업금융 , 금융사무 , 금융상품영업 외 수정일 26/11/23",
    "sources": [
     {
      "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55554659"
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55616713"
     }
    ],
-   "first_seen": "2026-11-16",
-   "is_new": false
+   "first_seen": "2026-11-23",
+   "is_new": true
   },
   {
    "source": "사람인",
@@ -1819,7 +1643,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "사람인",
@@ -1839,7 +1663,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "잡코리아",
@@ -1859,7 +1683,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "사람인",
@@ -1903,7 +1727,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "사람인",
@@ -2007,7 +1831,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "잡코리아",
@@ -2051,6 +1875,26 @@
   },
   {
    "source": "잡코리아",
+   "company": "오케이저축은행",
+   "title": "OK금융그룹 채용형 인턴 공개모집",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50396633",
+   "deadline": null,
+   "deadline_note": null,
+   "posted": null,
+   "intern": false,
+   "category": "은행·보험·기타",
+   "extra": "오늘 뜬 따끈한 공고 | 스크랩 | OK금융그룹 채용형 인턴 공개모집 | ㈜오케이저축은행 | 서울 중구 | 은행·금융, 경영·비즈니스기획, 마케팅기획, 인사담당자 | 월급 ~260만원 | 홈페이지 지원 | 신입·경력",
+   "sources": [
+    {
+     "name": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50396633"
+    }
+   ],
+   "first_seen": "2026-11-23",
+   "is_new": true
+  },
+  {
+   "source": "잡코리아",
    "company": "재단법인 은행권청년창업재단",
    "title": "[은행권청년창업재단] 2027년 상반기 디캠프 인턴 채용",
    "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50392494",
@@ -2059,7 +1903,7 @@
    "posted": null,
    "intern": false,
    "category": "은행·보험·기타",
-   "extra": "신입 지원 가능 | 스크랩 | [은행권청년창업재단] 2027년 상반기 디캠프 인턴 채용 | 재단법인 은행권청년창업재단 | 서울 마포구 | 협회·단체, 경영·비즈니스기획, HRD·HRM, 홍보 | 홈페이지 지원 | 신입",
+   "extra": "인턴 채용 진행중 | 스크랩 | [은행권청년창업재단] 2027년 상반기 디캠프 인턴 채용 | 재단법인 은행권청년창업재단 | 서울 마포구 | 협회·단체, 경영·비즈니스기획, HRD·HRM, 홍보 | 홈페이지 지원 | 신입",
    "sources": [
     {
      "name": "잡코리아",
@@ -2067,7 +1911,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "피플앤잡",
@@ -2087,7 +1931,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "피플앤잡",
@@ -2267,7 +2111,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "금융투자협회",
@@ -2327,7 +2171,47 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
+  },
+  {
+   "source": "금융투자협회",
+   "company": "한국자산평가",
+   "title": "[한국자산평가][솔루션, 컨설팅] 경력 및 신입(인턴)직원 채용 공고",
+   "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43167",
+   "deadline": null,
+   "deadline_note": null,
+   "posted": "2026-11-16",
+   "intern": false,
+   "category": "신용평가",
+   "extra": "금융투자회사",
+   "sources": [
+    {
+     "name": "금융투자협회",
+     "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43167"
+    }
+   ],
+   "first_seen": "2026-11-19",
+   "is_new": false
+  },
+  {
+   "source": "금융투자협회",
+   "company": "한국자산평가",
+   "title": "[한국자산평가][대체평가1,2사업본부] 경력 및 신입(인턴) 채용 공고",
+   "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43069",
+   "deadline": null,
+   "deadline_note": null,
+   "posted": "2026-11-09",
+   "intern": false,
+   "category": "신용평가",
+   "extra": "금융투자회사",
+   "sources": [
+    {
+     "name": "금융투자협회",
+     "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43069"
+    }
+   ],
+   "first_seen": "2026-11-16",
+   "is_new": false
   },
   {
    "source": "금융투자협회",
@@ -2344,26 +2228,6 @@
     {
      "name": "금융투자협회",
      "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43134"
-    }
-   ],
-   "first_seen": "2026-11-16",
-   "is_new": false
-  },
-  {
-   "source": "금융투자협회",
-   "company": "DS투자증권",
-   "title": "[DS투자증권] 리서치센터 투자전략팀 미국주식/투자전략/ETF RA(인턴사원) 채용(~11/22)",
-   "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43068",
-   "deadline": "2026-11-22",
-   "deadline_note": null,
-   "posted": "2026-11-09",
-   "intern": false,
-   "category": "증권·IB",
-   "extra": "금융투자회사",
-   "sources": [
-    {
-     "name": "금융투자협회",
-     "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43068"
     }
    ],
    "first_seen": "2026-11-16",
@@ -2571,6 +2435,26 @@
   },
   {
    "source": "금융투자협회",
+   "company": "KB자산운용",
+   "title": "[KB자산운용] 준법추진본부 인턴 채용",
+   "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42562",
+   "deadline": null,
+   "deadline_note": null,
+   "posted": "2026-10-07",
+   "intern": false,
+   "category": "자산운용",
+   "extra": "금융투자회사",
+   "sources": [
+    {
+     "name": "금융투자협회",
+     "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42562"
+    }
+   ],
+   "first_seen": "2026-11-07",
+   "is_new": false
+  },
+  {
+   "source": "금융투자협회",
    "company": "피데스자산운용",
    "title": "[피데스자산운용] 주식운용팀 채용(채용연계형인턴)",
    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42560",
@@ -2711,26 +2595,6 @@
   },
   {
    "source": "금융투자협회",
-   "company": "IBK투자증권",
-   "title": "[IBK투자증권] 투자분석부(RA) 채용 공고",
-   "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42389",
-   "deadline": null,
-   "deadline_note": null,
-   "posted": "2026-09-23",
-   "intern": false,
-   "category": "증권·IB",
-   "extra": "금융투자회사",
-   "sources": [
-    {
-     "name": "금융투자협회",
-     "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=42389"
-    }
-   ],
-   "first_seen": "2026-11-07",
-   "is_new": false
-  },
-  {
-   "source": "금융투자협회",
    "company": "레드포인트파트너스",
    "title": "[레드포인트파트너스] AI-Native Equity Research Intern(PM 직속)",
    "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43155",
@@ -2747,7 +2611,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "고려대 경영CDC",
@@ -2787,7 +2651,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "고려대 경영CDC",
@@ -2807,7 +2671,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "고려대 경영CDC",
@@ -2827,7 +2691,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "고려대 경영CDC",
@@ -2847,7 +2711,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "고려대 경영CDC",
@@ -2867,7 +2731,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "고려대 경영CDC",
@@ -2987,7 +2851,7 @@
     }
    ],
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   }
  ]
 }
