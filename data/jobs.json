@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-22 01:44",
+ "generated_at": "2026-11-22 11:58",
  "today": "2026-11-22",
  "status": [
   {
    "name": "링커리어",
    "ok": true,
    "fetched": 1067,
-   "sec": 85.6,
+   "sec": 80.0,
    "kept": 48
   },
   {
    "name": "자소설닷컴",
    "ok": true,
    "fetched": 291,
-   "sec": 9.0,
+   "sec": 6.6,
    "kept": 8
   },
   {
@@ -35,43 +35,43 @@
   {
    "name": "사람인",
    "ok": true,
-   "fetched": 971,
-   "sec": 51.2,
-   "kept": 33
+   "fetched": 757,
+   "sec": 50.7,
+   "kept": 34
   },
   {
    "name": "잡코리아",
    "ok": true,
-   "fetched": 262,
-   "sec": 27.1,
+   "fetched": 261,
+   "sec": 25.8,
    "kept": 30
   },
   {
    "name": "피플앤잡",
    "ok": true,
-   "fetched": 487,
-   "sec": 31.5,
+   "fetched": 491,
+   "sec": 31.9,
    "kept": 9
   },
   {
    "name": "잡알리오",
    "ok": true,
    "fetched": 55,
-   "sec": 14.0,
+   "sec": 14.7,
    "kept": 1
   },
   {
    "name": "벤처투자포털",
    "ok": true,
    "fetched": 83,
-   "sec": 12.4,
+   "sec": 13.4,
    "kept": 4
   },
   {
    "name": "금융투자협회",
    "ok": true,
    "fetched": 75,
-   "sec": 18.7,
+   "sec": 20.3,
    "kept": 33
   },
   {
@@ -85,14 +85,14 @@
    "name": "슈퍼루키",
    "ok": true,
    "fetched": 384,
-   "sec": 40.7,
+   "sec": 41.2,
    "kept": 19
   },
   {
    "name": "회사 채용페이지",
    "ok": true,
    "fetched": 18,
-   "sec": 69.0,
+   "sec": 69.3,
    "kept": 2
   }
  ],
@@ -435,7 +435,7 @@
    "posted": null,
    "intern": false,
    "category": "회계법인·FAS",
-   "extra": "서울 용산구 경력무관 대졸↑ 인턴직 비서 , 법무 , 자료입력 , 자료조사 , OA 외 수정일 26/11/19",
+   "extra": "서울 용산구 경력무관 대졸↑ 인턴직 비서 , 사무보조 , 사무행정 , 서류관리 , 자료입력 외 수정일 26/11/19",
    "sources": [
     {
      "name": "사람인",
@@ -756,34 +756,6 @@
   {
    "source": "사람인",
    "company": "EY한영",
-   "title": "EY한영 품질위험관리부문 독립성팀 인턴",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55632463",
-   "deadline": "2026-11-26",
-   "deadline_note": null,
-   "posted": null,
-   "intern": false,
-   "category": "회계법인·FAS",
-   "extra": "서울 영등포구 신입 대졸↑ 인턴직 사무보조 , 사무행정 , 회계법인 수정일 26/11/20",
-   "sources": [
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55632463"
-    },
-    {
-     "name": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50406940"
-    },
-    {
-     "name": "슈퍼루키",
-     "url": "https://www.superookie.com/jobs/6b00002d1eca8f26a51692e2"
-    }
-   ],
-   "first_seen": "2026-11-21",
-   "is_new": true
-  },
-  {
-   "source": "사람인",
-   "company": "EY한영",
    "title": "감사부문 감사지원팀 CoE ADC Audit 인턴 채용",
    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55628517",
    "deadline": "2026-11-26",
@@ -807,6 +779,34 @@
     }
    ],
    "first_seen": "2026-11-20",
+   "is_new": true
+  },
+  {
+   "source": "사람인",
+   "company": "EY한영",
+   "title": "EY한영 품질위험관리부문 독립성팀 인턴",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55632463",
+   "deadline": "2026-11-26",
+   "deadline_note": null,
+   "posted": null,
+   "intern": false,
+   "category": "회계법인·FAS",
+   "extra": "서울 영등포구 신입 대졸↑ 인턴직 사무보조 , 사무행정 , 회계법인 수정일 26/11/20",
+   "sources": [
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55632463"
+    },
+    {
+     "name": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50406940"
+    },
+    {
+     "name": "슈퍼루키",
+     "url": "https://www.superookie.com/jobs/6b00002d1eca8f26a51692e2"
+    }
+   ],
+   "first_seen": "2026-11-21",
    "is_new": true
   },
   {
@@ -1231,7 +1231,7 @@
    "posted": null,
    "intern": false,
    "category": "VC",
-   "extra": "경기 성남시 분당구 경력무관 고졸↑ 인턴직 총무 , 회계 , 경영지원 수정일 26/11/10",
+   "extra": "경기 성남시 분당구 경력무관 고졸↑ 인턴직 총무 , 경영지원 , 회계 수정일 26/11/10",
    "sources": [
     {
      "name": "사람인",
@@ -1687,7 +1687,7 @@
    "posted": null,
    "intern": false,
    "category": "은행·보험·기타",
-   "extra": "인천 미추홀구 신입·경력 학력무관 정규직·인턴직 증권영업 , 금융상품영업 , 영업 , 고객관리 , 영업관리 외 수정일 26/11/20",
+   "extra": "인천 미추홀구 신입·경력 학력무관 정규직·인턴직 증권영업 , 금융상품영업 , 영업 , 고객관리 , 금융사무 외 수정일 26/11/20",
    "sources": [
     {
      "name": "사람인",
@@ -1759,6 +1759,30 @@
   },
   {
    "source": "사람인",
+   "company": "다날투자파트너스",
+   "title": "[다날투자파트너스] 투자육성팀 인턴 채용",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55566758",
+   "deadline": "2026-12-13",
+   "deadline_note": null,
+   "posted": null,
+   "intern": false,
+   "category": "VC",
+   "extra": "경기 성남시 분당구 신입 대졸↑ 인턴직 기업분석 , 사업제휴 , 시장조사 , 신사업발굴 , 엑셀러레이팅 외 등록일 26/11/13",
+   "sources": [
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55566758"
+    },
+    {
+     "name": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50362095"
+    }
+   ],
+   "first_seen": "2026-11-16",
+   "is_new": false
+  },
+  {
+   "source": "사람인",
    "company": "교보생명보험",
    "title": "2026년 교보생명 채용연계형 인턴 모집",
    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55554659",
@@ -1779,30 +1803,6 @@
   },
   {
    "source": "사람인",
-   "company": "다날투자파트너스",
-   "title": "[다날투자파트너스] 투자육성팀 인턴 채용",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55566758",
-   "deadline": "2026-12-13",
-   "deadline_note": null,
-   "posted": null,
-   "intern": false,
-   "category": "VC",
-   "extra": "경기 성남시 분당구 신입 대졸↑ 인턴직 투자분석 , 투자전략 , 투자심사 , 엑셀러레이팅 , 신사업발굴 외 등록일 26/11/13",
-   "sources": [
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55566758"
-    },
-    {
-     "name": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50362095"
-    }
-   ],
-   "first_seen": "2026-11-16",
-   "is_new": false
-  },
-  {
-   "source": "사람인",
    "company": "(재)은행권청년창업재단",
    "title": "[은행권청년창업재단] 2027년 상반기 디캠프 인턴 채용",
    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55610920",
@@ -1811,7 +1811,7 @@
    "posted": null,
    "intern": false,
    "category": "은행·보험·기타",
-   "extra": "서울 마포구 신입 학력무관 인턴직 230 만원 투자분석 , 유지보수 , 사업관리 , 홍보 , 언론홍보 외 등록일 26/11/18",
+   "extra": "서울 마포구 신입 학력무관 인턴직 230 만원 기술지원 , 유지보수 , 채용담당자 , HRD , HRM 외 등록일 26/11/18",
    "sources": [
     {
      "name": "사람인",
@@ -1871,7 +1871,7 @@
    "posted": null,
    "intern": false,
    "category": "컨설팅",
-   "extra": "서울 금천구 경력무관 대졸↑ 인턴직 220 만원 자료조사 , 정책연구 , 조사분석 수정일 26/11/09",
+   "extra": "서울 금천구 경력무관 대졸↑ 인턴직 220 만원 정책연구 , 자료조사 , 컨설팅 , 조사분석 수정일 26/11/09",
    "sources": [
     {
      "name": "사람인",
@@ -1947,6 +1947,26 @@
     }
    ],
    "first_seen": "2026-11-20",
+   "is_new": true
+  },
+  {
+   "source": "사람인",
+   "company": "아이비커리어",
+   "title": "[여의도/인턴] KIS자산평가 경영기획실 파견인턴 모집",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55502990",
+   "deadline": null,
+   "deadline_note": "채용시",
+   "posted": null,
+   "intern": false,
+   "category": "신용평가",
+   "extra": "서울 영등포구 경력무관 학력무관 파견직 사무직 , 사무행정 , 사무보조 , 서류관리 , 경리 외 등록일 26/11/06",
+   "sources": [
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55502990"
+    }
+   ],
+   "first_seen": "2026-11-22",
    "is_new": true
   },
   {
