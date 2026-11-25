@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-25 05:05",
+ "generated_at": "2026-11-25 14:24",
  "today": "2026-11-25",
  "status": [
   {
    "name": "링커리어",
    "ok": true,
-   "fetched": 1037,
-   "sec": 81.8,
+   "fetched": 1038,
+   "sec": 71.2,
    "kept": 49
   },
   {
    "name": "자소설닷컴",
    "ok": true,
    "fetched": 267,
-   "sec": 13.1,
+   "sec": 7.0,
    "kept": 8
   },
   {
@@ -21,78 +21,77 @@
    "ok": false,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.catch.co.kr/api/v1.0/recruit/information/getRecruitList?Keyword=%EC%9D%B8%ED%84%B4&Sort=0&curpage=1&pageSize=100&onRecruitYN=Y",
    "fetched": 0,
-   "sec": 0.6,
+   "sec": 0.4,
    "kept": 0
   },
   {
    "name": "원티드",
-   "ok": false,
-   "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.wanted.co.kr/api/chaos/search/v1/position?query=%ED%88%AC%EC%9E%90+%EC%9D%B8%ED%84%B4&country=kr&years=-1&sort=job.latest_order&limit=20&off",
-   "fetched": 0,
-   "sec": 0.2,
+   "ok": true,
+   "fetched": 1464,
+   "sec": 108.1,
    "kept": 0
   },
   {
    "name": "사람인",
    "ok": true,
-   "fetched": 971,
-   "sec": 50.8,
-   "kept": 37
+   "fetched": 962,
+   "sec": 55.9,
+   "kept": 38
   },
   {
    "name": "잡코리아",
    "ok": true,
-   "fetched": 272,
-   "sec": 23.7,
+   "fetched": 242,
+   "sec": 22.4,
    "kept": 32
   },
   {
    "name": "피플앤잡",
    "ok": true,
-   "fetched": 476,
-   "sec": 29.7,
+   "fetched": 489,
+   "sec": 28.2,
    "kept": 13
   },
   {
    "name": "잡알리오",
    "ok": true,
-   "fetched": 59,
-   "sec": 15.3,
+   "fetched": 60,
+   "sec": 14.6,
    "kept": 0
   },
   {
    "name": "벤처투자포털",
    "ok": true,
-   "fetched": 78,
-   "sec": 11.3,
+   "fetched": 79,
+   "sec": 10.1,
    "kept": 3
   },
   {
    "name": "금융투자협회",
    "ok": true,
-   "fetched": 76,
-   "sec": 18.1,
-   "kept": 32
+   "fetched": 78,
+   "sec": 18.9,
+   "kept": 33
   },
   {
    "name": "고려대 경영CDC",
    "ok": true,
-   "fetched": 52,
-   "sec": 5.4,
+   "fetched": 53,
+   "sec": 3.8,
    "kept": 15
   },
   {
    "name": "슈퍼루키",
    "ok": true,
    "fetched": 384,
-   "sec": 40.9,
+   "sec": 43.5,
    "kept": 19
   },
   {
    "name": "회사 채용페이지",
    "ok": true,
    "fetched": 17,
-   "sec": 72.2,
+   "sec": 70.3,
    "kept": 2
   }
  ],
@@ -1711,6 +1710,26 @@
   },
   {
    "source": "사람인",
+   "company": "에셋플러스자산운용",
+   "title": "26년도 운용지원 및 총무 직무 직원 채용 공고",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55667231",
+   "deadline": "2026-12-07",
+   "deadline_note": null,
+   "posted": null,
+   "intern": false,
+   "category": "자산운용",
+   "extra": "경기 성남시 분당구 신입·경력 학력무관 계약직·인턴직 사무보조 , IR/공시 , 자산운용 , 사무직 , 총무 외 수정일 26/11/25",
+   "sources": [
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55667231"
+    }
+   ],
+   "first_seen": "2026-11-25",
+   "is_new": true
+  },
+  {
+   "source": "사람인",
    "company": "한국예탁결제원",
    "title": "한국예탁결제원 2027년 체험형 청년인턴 체용공고",
    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55588364",
@@ -1779,7 +1798,7 @@
    "posted": null,
    "intern": false,
    "category": "VC",
-   "extra": "경기 성남시 분당구 신입 대졸↑ 인턴직 기업분석 , 투자분석 , 엑셀러레이팅 , 신사업발굴 , 트렌드분석 외 등록일 26/11/13",
+   "extra": "경기 성남시 분당구 신입 대졸↑ 인턴직 투자분석 , 기업분석 , 엑셀러레이팅 , 신사업발굴 , 트렌드분석 외 등록일 26/11/13",
    "sources": [
     {
      "name": "사람인",
@@ -2180,6 +2199,26 @@
    ],
    "first_seen": "2026-11-07",
    "is_new": false
+  },
+  {
+   "source": "금융투자협회",
+   "company": "브레인자산운용",
+   "title": "[케이와이프라이빗에쿼티] 운용팀 체험형 인턴 채용",
+   "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43284",
+   "deadline": null,
+   "deadline_note": null,
+   "posted": "2026-11-25",
+   "intern": false,
+   "category": "PE",
+   "extra": "금융투자회사",
+   "sources": [
+    {
+     "name": "금융투자협회",
+     "url": "https://www.kofia.or.kr/brd/m_96/view.do?seq=43284"
+    }
+   ],
+   "first_seen": "2026-11-25",
+   "is_new": true
   },
   {
    "source": "금융투자협회",
