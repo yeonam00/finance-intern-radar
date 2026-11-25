@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-26 01:50",
+ "generated_at": "2026-11-26 02:01",
  "today": "2026-11-26",
  "status": [
   {
    "name": "링커리어",
    "ok": true,
    "fetched": 1032,
-   "sec": 65.0,
-   "kept": 50
+   "sec": 81.4,
+   "kept": 49
   },
   {
    "name": "자소설닷컴",
    "ok": true,
    "fetched": 265,
-   "sec": 12.8,
+   "sec": 4.2,
    "kept": 7
   },
   {
@@ -21,77 +21,77 @@
    "ok": false,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.catch.co.kr/api/v1.0/recruit/information/getRecruitList?Keyword=%EC%9D%B8%ED%84%B4&Sort=0&curpage=1&pageSize=100&onRecruitYN=Y",
    "fetched": 0,
-   "sec": 0.5,
+   "sec": 0.6,
    "kept": 0
   },
   {
    "name": "원티드",
    "ok": true,
    "fetched": 1469,
-   "sec": 104.2,
+   "sec": 120.9,
    "kept": 0
   },
   {
    "name": "사람인",
    "ok": true,
-   "fetched": 806,
-   "sec": 46.5,
+   "fetched": 807,
+   "sec": 52.9,
    "kept": 38
   },
   {
    "name": "잡코리아",
    "ok": true,
    "fetched": 239,
-   "sec": 22.5,
+   "sec": 23.8,
    "kept": 33
   },
   {
    "name": "피플앤잡",
    "ok": true,
    "fetched": 491,
-   "sec": 27.8,
+   "sec": 30.6,
    "kept": 14
   },
   {
    "name": "잡알리오",
    "ok": true,
    "fetched": 59,
-   "sec": 12.8,
+   "sec": 13.7,
    "kept": 0
   },
   {
    "name": "벤처투자포털",
    "ok": true,
    "fetched": 75,
-   "sec": 10.1,
+   "sec": 11.8,
    "kept": 2
   },
   {
    "name": "금융투자협회",
    "ok": true,
    "fetched": 79,
-   "sec": 16.1,
+   "sec": 19.8,
    "kept": 33
   },
   {
    "name": "고려대 경영CDC",
    "ok": true,
    "fetched": 52,
-   "sec": 3.1,
+   "sec": 3.6,
    "kept": 14
   },
   {
    "name": "슈퍼루키",
    "ok": true,
    "fetched": 384,
-   "sec": 45.2,
-   "kept": 19
+   "sec": 43.4,
+   "kept": 18
   },
   {
    "name": "회사 채용페이지",
    "ok": true,
    "fetched": 19,
-   "sec": 69.6,
+   "sec": 68.4,
    "kept": 3
   }
  ],
@@ -366,12 +366,12 @@
   },
   {
    "source": "링커리어",
-   "company": "NH아문디자산운용",
-   "title": "[NH아문디자산운용] 채권운용부문 LDI/리서치본부 채권리서치실 인턴사원 채용공고",
+   "company": "NH-Amundi자산운용",
+   "title": "[NH-Amundi자산운용] 채권운용부문 LDI/리서치본부 채권리서치실 인턴사원 채용공고",
    "url": "https://linkareer.com/activity/367101",
    "deadline": "2026-12-01",
    "deadline_note": null,
-   "posted": null,
+   "posted": "2026-11-24",
    "intern": true,
    "category": "자산운용",
    "extra": "자산운용/펀드",
@@ -379,19 +379,27 @@
     {
      "name": "링커리어",
      "url": "https://linkareer.com/activity/367101"
+    },
+    {
+     "name": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50420196"
+    },
+    {
+     "name": "고려대 경영CDC",
+     "url": "https://biz.korea.ac.kr/cdc/recruitment/recruitment_view.html?no=14939"
     }
    ],
-   "first_seen": "2026-11-26",
+   "first_seen": "2026-11-24",
    "is_new": true
   },
   {
    "source": "링커리어",
-   "company": "NH아문디자산운용",
-   "title": "[NH아문디자산운용] 주식운용부문 주식리서치본부 인턴사원 채용공고",
+   "company": "NH-Amundi자산운용",
+   "title": "[NH-Amundi자산운용] 주식운용부문 주식리서치본부 인턴사원 채용공고",
    "url": "https://linkareer.com/activity/367004",
    "deadline": "2026-12-02",
    "deadline_note": null,
-   "posted": null,
+   "posted": "2026-11-19",
    "intern": true,
    "category": "자산운용",
    "extra": "전체",
@@ -399,10 +407,18 @@
     {
      "name": "링커리어",
      "url": "https://linkareer.com/activity/367004"
+    },
+    {
+     "name": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50386937"
+    },
+    {
+     "name": "고려대 경영CDC",
+     "url": "https://biz.korea.ac.kr/cdc/recruitment/recruitment_view.html?no=14926"
     }
    ],
-   "first_seen": "2026-11-26",
-   "is_new": true
+   "first_seen": "2026-11-20",
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -942,46 +958,6 @@
   },
   {
    "source": "링커리어",
-   "company": "피에프씨테크놀로지스",
-   "title": "AI 신용평가 아카데미 5기",
-   "url": "https://linkareer.com/activity/366183",
-   "deadline": "2026-11-30",
-   "deadline_note": null,
-   "posted": null,
-   "intern": true,
-   "category": "신용평가",
-   "extra": "전체 전체 전체",
-   "sources": [
-    {
-     "name": "링커리어",
-     "url": "https://linkareer.com/activity/366183"
-    }
-   ],
-   "first_seen": "2026-11-23",
-   "is_new": true
-  },
-  {
-   "source": "슈퍼루키",
-   "company": "피에프씨테크놀로지스",
-   "title": "Enterprise AI 신용평가 아카데미",
-   "url": "https://www.superookie.com/jobs/6b0391d78c58fd67d81bcd23",
-   "deadline": "2026-11-30",
-   "deadline_note": null,
-   "posted": null,
-   "intern": true,
-   "category": "신용평가",
-   "extra": "11/30 23:59 마감 인턴 서울 학력무관",
-   "sources": [
-    {
-     "name": "슈퍼루키",
-     "url": "https://www.superookie.com/jobs/6b0391d78c58fd67d81bcd23"
-    }
-   ],
-   "first_seen": "2026-11-23",
-   "is_new": true
-  },
-  {
-   "source": "링커리어",
    "company": "OK금융그룹",
    "title": "[OK금융그룹] 2026 AI Native 채용형 인턴 공개모집",
    "url": "https://linkareer.com/activity/366155",
@@ -999,6 +975,14 @@
     {
      "name": "자소설닷컴",
      "url": "https://jasoseol.com/recruit/107333"
+    },
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55616713"
+    },
+    {
+     "name": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50396633"
     }
    ],
    "first_seen": "2026-11-23",
@@ -1778,26 +1762,6 @@
   },
   {
    "source": "사람인",
-   "company": "오케이금융그룹",
-   "title": "OK금융그룹 채용형 인턴 공개모집",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55616713",
-   "deadline": "2026-12-06",
-   "deadline_note": null,
-   "posted": null,
-   "intern": false,
-   "category": "은행·보험·기타",
-   "extra": "서울 중구 신입 대졸↑ 인턴직 자산운용 , 자산운용사 , 기업금융 , 금융사무 , 금융상품영업 외 수정일 26/11/23",
-   "sources": [
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55616713"
-    }
-   ],
-   "first_seen": "2026-11-23",
-   "is_new": true
-  },
-  {
-   "source": "사람인",
    "company": "다날투자파트너스",
    "title": "[다날투자파트너스] 투자육성팀 인턴 채용",
    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55566758",
@@ -1970,46 +1934,6 @@
   },
   {
    "source": "잡코리아",
-   "company": "엔에이치아문디자산운용",
-   "title": "주식운용부문 주식리서치본부 인턴사원 채용공고",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50386937",
-   "deadline": null,
-   "deadline_note": null,
-   "posted": null,
-   "intern": false,
-   "category": "자산운용",
-   "extra": "인턴 채용 진행중 | 스크랩 | 주식운용부문 주식리서치본부 인턴사원 채용공고 | 엔에이치아문디자산운용 | 농협그룹 | 서울 영등포구 | 은행·금융, 펀드매니저, 애널리스트 | 홈페이지 지원 | 경력무관",
-   "sources": [
-    {
-     "name": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50386937"
-    }
-   ],
-   "first_seen": "2026-11-21",
-   "is_new": false
-  },
-  {
-   "source": "잡코리아",
-   "company": "엔에이치아문디자산운용",
-   "title": "채권운용부문 LDI/리서치본부 채권리서치실 인턴사원 채용공고",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50420196",
-   "deadline": null,
-   "deadline_note": null,
-   "posted": null,
-   "intern": false,
-   "category": "자산운용",
-   "extra": "인턴 채용 진행중 | 스크랩 | 채권운용부문 LDI/리서치본부 채권리서치실 인턴사원 채용공고 | 엔에이치아문디자산운용 | 농협그룹 | 서울 영등포구 | 증권·보험·카드, 펀드매니저, 애널리스트 | 홈페이지 지원 | 경력무관",
-   "sources": [
-    {
-     "name": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50420196"
-    }
-   ],
-   "first_seen": "2026-11-24",
-   "is_new": true
-  },
-  {
-   "source": "잡코리아",
    "company": "퀀트폴리오",
    "title": "[퀀트폴리오] 퀀트 리서처 및 투자 알고리즘 연구 채용 (신입·인턴 환영)",
    "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50373305",
@@ -2047,26 +1971,6 @@
    ],
    "first_seen": "2026-11-16",
    "is_new": false
-  },
-  {
-   "source": "잡코리아",
-   "company": "오케이저축은행",
-   "title": "OK금융그룹 채용형 인턴 공개모집",
-   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50396633",
-   "deadline": null,
-   "deadline_note": null,
-   "posted": null,
-   "intern": false,
-   "category": "은행·보험·기타",
-   "extra": "신입 지원 가능 | 스크랩 | OK금융그룹 채용형 인턴 공개모집 | ㈜오케이저축은행 | 서울 중구 | 은행·금융, 경영·비즈니스기획, 웹기획, 마케팅기획 | 월급 ~260만원 | 홈페이지 지원 | 신입·경력",
-   "sources": [
-    {
-     "name": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50396633"
-    }
-   ],
-   "first_seen": "2026-11-23",
-   "is_new": true
   },
   {
    "source": "잡코리아",
@@ -2847,46 +2751,6 @@
    ],
    "first_seen": "2026-11-25",
    "is_new": true
-  },
-  {
-   "source": "고려대 경영CDC",
-   "company": "NH-Amundi자산운용",
-   "title": "[NH-Amundi자산운용] 채권운용부문 LDI/리서치본부 채권리서치실 인턴사원 채용공고",
-   "url": "https://biz.korea.ac.kr/cdc/recruitment/recruitment_view.html?no=14939",
-   "deadline": "2026-12-01",
-   "deadline_note": null,
-   "posted": "2026-11-24",
-   "intern": true,
-   "category": "자산운용",
-   "extra": "리서치 인턴",
-   "sources": [
-    {
-     "name": "고려대 경영CDC",
-     "url": "https://biz.korea.ac.kr/cdc/recruitment/recruitment_view.html?no=14939"
-    }
-   ],
-   "first_seen": "2026-11-24",
-   "is_new": true
-  },
-  {
-   "source": "고려대 경영CDC",
-   "company": "NH-Amundi자산운용",
-   "title": "[NH-Amundi자산운용] 주식운용부문 주식리서치본부 인턴사원 채용공고",
-   "url": "https://biz.korea.ac.kr/cdc/recruitment/recruitment_view.html?no=14926",
-   "deadline": "2026-12-02",
-   "deadline_note": null,
-   "posted": "2026-11-19",
-   "intern": true,
-   "category": "자산운용",
-   "extra": "리서치 인턴",
-   "sources": [
-    {
-     "name": "고려대 경영CDC",
-     "url": "https://biz.korea.ac.kr/cdc/recruitment/recruitment_view.html?no=14926"
-    }
-   ],
-   "first_seen": "2026-11-20",
-   "is_new": false
   },
   {
    "source": "고려대 경영CDC",
