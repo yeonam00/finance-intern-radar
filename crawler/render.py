@@ -22,7 +22,7 @@ MANUAL_LINKS = [
         ("Deutsche Bank", "https://careers.db.com/students-graduates/", ""),
         ("UBS", "https://www.ubs.com/global/en/careers/search-jobs.html", ""),
         ("HSBC", "https://mycareer.hsbc.com/en_GB/external/SearchJobs", ""),
-        ("Standard Chartered (Korea)", "https://jobs.standardchartered.com/go/Korea/", ""),
+        ("Standard Chartered (Korea)", "https://jobs.standardchartered.com/go/Korea/", "SC제일은행 인턴십은 캐치에만 올라옴"),
         ("Nomura", "https://www.nomuraholdings.com/careers/", ""),
     ]),
     ("신용평가사", [
@@ -50,6 +50,7 @@ MANUAL_LINKS = [
         ("서울대 경력개발센터", "https://career.snu.ac.kr", "로그인 필요"),
         ("고려대 경력개발센터", "https://career.korea.ac.kr", "로그인 필요 (경영대 CDC는 자동 수집 중)"),
         ("LinkedIn Jobs (Seoul)", "https://www.linkedin.com/jobs/search/?keywords=intern%20finance&location=Seoul", "Job Alert 메일 설정 권장"),
+        ("캐치 인턴 검색", "https://www.catch.co.kr/NCS/RecruitSearch", "GitHub 서버 접속 차단 (로컬 실행.bat에선 수집됨)"),
         ("THE VC 채용", "https://thevc.kr/jobs", "봇 차단"),
         ("InsightBay", "https://www.insightbay.co.kr", "채용 게시판 없음"),
         ("CareerJump", "https://www.careerjump.co.kr", "접속 불안정"),
@@ -258,7 +259,7 @@ section.aux{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap
     '<div class="kpi urgent"><b>'+urgent+'</b><span>7일 안에 마감</span></div>'+
     '<div class="kpi fresh"><b>'+fresh+'</b><span>최근 3일 새로 올라옴</span></div>'+
     '<div class="kpi"><b>'+okSrc+'<small style="font-size:14px;color:var(--muted)">/'+D.status.length+'</small></b><span>수집 성공한 사이트</span></div>';
-  $('stamp').innerHTML = '수집 '+esc(D.generated_at)+' KST<br>매일 08시·18시 자동 갱신';
+  $('stamp').innerHTML = '수집 '+esc(D.generated_at)+' KST<br>하루 4번 자동 갱신';
 
   // 출처 select
   const srcNames = [...new Set(jobs.flatMap(j=>j.sources.map(s=>s.name)))].sort();

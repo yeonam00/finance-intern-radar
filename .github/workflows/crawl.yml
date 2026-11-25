@@ -2,8 +2,8 @@ name: 금융 인턴 공고 수집
 
 on:
   schedule:
-    - cron: "0 23 * * *"  # 매일 08:00 KST
-    - cron: "0 9 * * *"   # 매일 18:00 KST
+    # GitHub 예약 실행은 몇 시간씩 밀리는 일이 잦아서 하루 4번(02·08·14·20시 KST)으로 촘촘히 잡음
+    - cron: "0 5,11,17,23 * * *"
   workflow_dispatch:       # Actions 탭에서 수동 실행
 
 permissions:
