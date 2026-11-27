@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-11-26 23:56",
- "today": "2026-11-26",
+ "generated_at": "2026-11-27 10:05",
+ "today": "2026-11-27",
  "status": [
   {
    "name": "링커리어",
    "ok": true,
-   "fetched": 1052,
+   "fetched": 1038,
    "sec": 82.6,
-   "kept": 49
+   "kept": 46
   },
   {
    "name": "자소설닷컴",
    "ok": true,
-   "fetched": 265,
-   "sec": 5.4,
-   "kept": 7
+   "fetched": 278,
+   "sec": 13.1,
+   "kept": 8
   },
   {
    "name": "캐치",
@@ -29,55 +29,55 @@
    "ok": false,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.wanted.co.kr/api/chaos/search/v1/position?query=%ED%88%AC%EC%9E%90+%EC%9D%B8%ED%84%B4&country=kr&years=-1&sort=job.latest_order&limit=20&off",
    "fetched": 0,
-   "sec": 0.3,
+   "sec": 0.2,
    "kept": 0
   },
   {
    "name": "사람인",
    "ok": true,
-   "fetched": 771,
-   "sec": 50.7,
-   "kept": 39
+   "fetched": 817,
+   "sec": 98.8,
+   "kept": 36
   },
   {
    "name": "잡코리아",
    "ok": true,
-   "fetched": 243,
-   "sec": 23.2,
+   "fetched": 241,
+   "sec": 23.4,
    "kept": 33
   },
   {
    "name": "피플앤잡",
    "ok": true,
-   "fetched": 506,
-   "sec": 31.0,
+   "fetched": 497,
+   "sec": 31.1,
    "kept": 15
   },
   {
    "name": "잡알리오",
    "ok": true,
    "fetched": 63,
-   "sec": 15.6,
+   "sec": 16.9,
    "kept": 0
   },
   {
    "name": "벤처투자포털",
    "ok": true,
    "fetched": 76,
-   "sec": 11.7,
+   "sec": 11.6,
    "kept": 2
   },
   {
    "name": "금융투자협회",
    "ok": true,
    "fetched": 81,
-   "sec": 18.2,
+   "sec": 18.5,
    "kept": 33
   },
   {
    "name": "고려대 경영CDC",
    "ok": true,
-   "fetched": 53,
+   "fetched": 52,
    "sec": 3.9,
    "kept": 16
   },
@@ -85,14 +85,14 @@
    "name": "슈퍼루키",
    "ok": true,
    "fetched": 384,
-   "sec": 42.6,
-   "kept": 19
+   "sec": 41.3,
+   "kept": 20
   },
   {
    "name": "회사 채용페이지",
    "ok": true,
    "fetched": 21,
-   "sec": 69.2,
+   "sec": 72.6,
    "kept": 3
   }
  ],
@@ -424,26 +424,6 @@
   {
    "source": "링커리어",
    "company": "EY한영",
-   "title": "[EY한영] AI Center 인턴 (정규전환형)",
-   "url": "https://linkareer.com/activity/366295",
-   "deadline": "2026-11-26",
-   "deadline_note": null,
-   "posted": null,
-   "intern": true,
-   "category": "회계법인·FAS",
-   "extra": "사무/문서관리 데이터분석 AI/ML엔지니어",
-   "sources": [
-    {
-     "name": "링커리어",
-     "url": "https://linkareer.com/activity/366295"
-    }
-   ],
-   "first_seen": "2026-11-24",
-   "is_new": true
-  },
-  {
-   "source": "링커리어",
-   "company": "EY한영",
    "title": "[EY한영] 금융감사부문 디지털 감사 & AI 리스크 분석 인턴",
    "url": "https://linkareer.com/activity/365555",
    "deadline": "2026-11-29",
@@ -470,90 +450,6 @@
    "is_new": false
   },
   {
-   "source": "링커리어",
-   "company": "EY한영",
-   "title": "[EY한영] 컨설팅부문 프로세스 혁신(PI) 프로젝트 인턴",
-   "url": "https://linkareer.com/activity/365550",
-   "deadline": "2026-11-26",
-   "deadline_note": "오늘마감",
-   "posted": null,
-   "intern": true,
-   "category": "회계법인·FAS",
-   "extra": "시장조사/리서치",
-   "sources": [
-    {
-     "name": "링커리어",
-     "url": "https://linkareer.com/activity/365550"
-    },
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55610854"
-    },
-    {
-     "name": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50392686"
-    }
-   ],
-   "first_seen": "2026-11-19",
-   "is_new": false
-  },
-  {
-   "source": "링커리어",
-   "company": "EY한영",
-   "title": "[EY한영] 금융감사부문 IT 시스템 및 규제 프로젝트 인턴",
-   "url": "https://linkareer.com/activity/365469",
-   "deadline": "2026-11-26",
-   "deadline_note": "오늘마감",
-   "posted": null,
-   "intern": true,
-   "category": "회계법인·FAS",
-   "extra": "시스템/ERP개발",
-   "sources": [
-    {
-     "name": "링커리어",
-     "url": "https://linkareer.com/activity/365469"
-    },
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55606807"
-    },
-    {
-     "name": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50388758"
-    }
-   ],
-   "first_seen": "2026-11-19",
-   "is_new": false
-  },
-  {
-   "source": "사람인",
-   "company": "EY한영",
-   "title": "감사부문 감사지원팀 CoE ADC Audit 인턴 채용",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55628517",
-   "deadline": "2026-11-26",
-   "deadline_note": "오늘마감",
-   "posted": "2026-11-20",
-   "intern": false,
-   "category": "회계법인·FAS",
-   "extra": "서울 영등포구 신입 대졸↑ 인턴직 재무제표 , 회계법인 등록일 26/11/20",
-   "sources": [
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55628517"
-    },
-    {
-     "name": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50403779"
-    },
-    {
-     "name": "피플앤잡",
-     "url": "https://www.peoplenjob.com/jobs/6322025"
-    }
-   ],
-   "first_seen": "2026-11-20",
-   "is_new": false
-  },
-  {
    "source": "잡코리아",
    "company": "EY한영",
    "title": "컨설팅부문 Technology Transformation팀 인턴",
@@ -563,7 +459,7 @@
    "posted": null,
    "intern": false,
    "category": "회계법인·FAS",
-   "extra": "오늘 뜬 따끈한 공고 | 스크랩 | 컨설팅부문 Technology Transformation팀 인턴 | 한영회계법인 | 서울 영등포구 | 회계·세무·법무, 컨설턴트 | 홈페이지 지원 | 신입",
+   "extra": "신입 지원 가능 | 스크랩 | 컨설팅부문 Technology Transformation팀 인턴 | 한영회계법인 | 서울 영등포구 | 회계·세무·법무, 컨설턴트 | 홈페이지 지원 | 신입",
    "sources": [
     {
      "name": "잡코리아",
@@ -676,7 +572,7 @@
    "url": "https://linkareer.com/activity/367057",
    "deadline": "2026-12-09",
    "deadline_note": null,
-   "posted": null,
+   "posted": "2026-11-26",
    "intern": true,
    "category": "은행·보험·기타",
    "extra": "경영기획/전략 사업기획/신규사업 서비스기획/운영 전체",
@@ -684,6 +580,10 @@
     {
      "name": "링커리어",
      "url": "https://linkareer.com/activity/367057"
+    },
+    {
+     "name": "자소설닷컴",
+     "url": "https://jasoseol.com/recruit/107381"
     }
    ],
    "first_seen": "2026-11-26",
@@ -883,7 +783,7 @@
    "title": "[딜로이트 안진회계법인] 회계감사부문 AIS(계리 전문 조직) 인턴 채용",
    "url": "https://linkareer.com/activity/361578",
    "deadline": "2026-11-27",
-   "deadline_note": "내일마감",
+   "deadline_note": "16시마감",
    "posted": "2026-11-02",
    "intern": true,
    "category": "회계법인·FAS",
@@ -908,6 +808,38 @@
    ],
    "first_seen": "2026-11-07",
    "is_new": false
+  },
+  {
+   "source": "링커리어",
+   "company": "딜로이트 안진",
+   "title": "[딜로이트 안진회계법인] 세무자문부문 Global Employer Services 인턴",
+   "url": "https://linkareer.com/activity/346642",
+   "deadline": "2026-12-24",
+   "deadline_note": null,
+   "posted": "2026-11-27",
+   "intern": true,
+   "category": "회계법인·FAS",
+   "extra": "전체",
+   "sources": [
+    {
+     "name": "링커리어",
+     "url": "https://linkareer.com/activity/346642"
+    },
+    {
+     "name": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50441515"
+    },
+    {
+     "name": "피플앤잡",
+     "url": "https://www.peoplenjob.com/jobs/6326337"
+    },
+    {
+     "name": "슈퍼루키",
+     "url": "https://www.superookie.com/jobs/6b08cf562132e371725c6ec3"
+    }
+   ],
+   "first_seen": "2026-11-27",
+   "is_new": true
   },
   {
    "source": "링커리어",
@@ -999,7 +931,7 @@
    "posted": null,
    "intern": false,
    "category": "은행·보험·기타",
-   "extra": "인천 미추홀구 신입·경력 학력무관 정규직·인턴직 증권영업 , 금융상품영업 , 영업 , 영업직 , 영업관리 외 수정일 26/11/20",
+   "extra": "인천 미추홀구 신입·경력 학력무관 정규직·인턴직 증권영업 , 금융상품영업 , 영업 , 고객관리 , 영업직 외 수정일 26/11/20",
    "sources": [
     {
      "name": "사람인",
@@ -1043,7 +975,7 @@
     }
    ],
    "first_seen": "2026-11-23",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -1088,6 +1020,10 @@
     {
      "name": "자소설닷컴",
      "url": "https://jasoseol.com/recruit/107334"
+    },
+    {
+     "name": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50405685"
     }
    ],
    "first_seen": "2026-11-21",
@@ -1666,66 +1602,6 @@
    "is_new": false
   },
   {
-   "source": "링커리어",
-   "company": "한국씨티은행",
-   "title": "[한국씨티은행] Banking - Investment Banking, Summer Analyst, Korea, Republic of – APAC, 2027",
-   "url": "https://linkareer.com/activity/346570",
-   "deadline": "2026-11-26",
-   "deadline_note": null,
-   "posted": null,
-   "intern": true,
-   "category": "외국계 금융",
-   "extra": "증권/투자/애널리스트",
-   "sources": [
-    {
-     "name": "링커리어",
-     "url": "https://linkareer.com/activity/346570"
-    }
-   ],
-   "first_seen": "2026-11-07",
-   "is_new": false
-  },
-  {
-   "source": "회사 채용페이지",
-   "company": "한국씨티은행",
-   "title": "대기업 인더스트리얼본부 RA",
-   "url": "https://jobs.citi.com/job/seoul/%eb%8c%80%ea%b8%b0%ec%97%85-%ec%9d%b8%eb%8d%94%ec%8a%a4%ed%8a%b8%eb%a6%ac%ec%96%bc%eb%b3%b8%eb%b6%80-ra/287/103763646496",
-   "deadline": null,
-   "deadline_note": null,
-   "posted": null,
-   "intern": false,
-   "category": "외국계 금융",
-   "extra": "대기업 인더스트리얼본부 RA",
-   "sources": [
-    {
-     "name": "회사 채용페이지",
-     "url": "https://jobs.citi.com/job/seoul/%eb%8c%80%ea%b8%b0%ec%97%85-%ec%9d%b8%eb%8d%94%ec%8a%a4%ed%8a%b8%eb%a6%ac%ec%96%bc%eb%b3%b8%eb%b6%80-ra/287/103763646496"
-    }
-   ],
-   "first_seen": "2026-11-26",
-   "is_new": true
-  },
-  {
-   "source": "회사 채용페이지",
-   "company": "한국씨티은행",
-   "title": "대기업 모빌리티본부 RA",
-   "url": "https://jobs.citi.com/job/seoul/%eb%8c%80%ea%b8%b0%ec%97%85-%eb%aa%a8%eb%b9%8c%eb%a6%ac%ed%8b%b0%eb%b3%b8%eb%b6%80-ra/287/102584414800",
-   "deadline": null,
-   "deadline_note": null,
-   "posted": null,
-   "intern": false,
-   "category": "외국계 금융",
-   "extra": "대기업 모빌리티본부 RA",
-   "sources": [
-    {
-     "name": "회사 채용페이지",
-     "url": "https://jobs.citi.com/job/seoul/%eb%8c%80%ea%b8%b0%ec%97%85-%eb%aa%a8%eb%b9%8c%eb%a6%ac%ed%8b%b0%eb%b3%b8%eb%b6%80-ra/287/102584414800"
-    }
-   ],
-   "first_seen": "2026-11-07",
-   "is_new": false
-  },
-  {
    "source": "자소설닷컴",
    "company": "한국예탁결제원(KSD)",
    "title": "2027년 채용공고",
@@ -1835,7 +1711,7 @@
    "posted": null,
    "intern": false,
    "category": "VC",
-   "extra": "경기 성남시 분당구 신입 대졸↑ 인턴직 투자분석 , 기업분석 , 사업제휴 , 시장조사 , 신사업발굴 외 등록일 26/11/13",
+   "extra": "경기 성남시 분당구 신입 대졸↑ 인턴직 투자분석 , 투자자산 , 사업제휴 , 시장조사 , 신사업발굴 외 등록일 26/11/13",
    "sources": [
     {
      "name": "사람인",
@@ -1891,26 +1767,6 @@
   },
   {
    "source": "사람인",
-   "company": "정책컨설팅더지음",
-   "title": "과학기술정책 및 전략기획 컨설팅 지원 인턴 모집",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55176897",
-   "deadline": null,
-   "deadline_note": "상시채용",
-   "posted": null,
-   "intern": false,
-   "category": "컨설팅",
-   "extra": "서울 금천구 경력무관 대졸↑ 인턴직 220 만원 정책연구 , 자료조사 , 컨설팅 , 조사분석 수정일 26/11/23",
-   "sources": [
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55176897"
-    }
-   ],
-   "first_seen": "2026-11-07",
-   "is_new": false
-  },
-  {
-   "source": "사람인",
    "company": "보험계리법인지아컨설팅",
    "title": "보험계리법인지아컨설팅(주) 인턴 모집",
    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55617257",
@@ -1931,6 +1787,26 @@
     }
    ],
    "first_seen": "2026-11-19",
+   "is_new": false
+  },
+  {
+   "source": "사람인",
+   "company": "정책컨설팅더지음",
+   "title": "과학기술정책 및 전략기획 컨설팅 지원 인턴 모집",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55176897",
+   "deadline": null,
+   "deadline_note": "상시채용",
+   "posted": null,
+   "intern": false,
+   "category": "컨설팅",
+   "extra": "서울 금천구 경력무관 대졸↑ 인턴직 220 만원 정책연구 , 자료조사 , 컨설팅 , 조사분석 수정일 26/11/23",
+   "sources": [
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55176897"
+    }
+   ],
+   "first_seen": "2026-11-07",
    "is_new": false
   },
   {
@@ -1987,7 +1863,7 @@
    "posted": null,
    "intern": false,
    "category": "신용평가",
-   "extra": "서울 영등포구 경력무관 학력무관 파견직 사무직 , 사무행정 , 사무보조 , 서류관리 , 경리 외 등록일 26/11/06",
+   "extra": "서울 영등포구 경력무관 학력무관 파견직 경리 , 경리사무원 , 전산회계 , AICPA , CFA 외 등록일 26/11/06",
    "sources": [
     {
      "name": "사람인",
@@ -2059,6 +1935,26 @@
   },
   {
    "source": "잡코리아",
+   "company": "엣지컨설팅",
+   "title": "공공기관 경영평가 정책연구 인턴 연구원 모집(정규직 전환 가능)",
+   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50394140",
+   "deadline": null,
+   "deadline_note": null,
+   "posted": null,
+   "intern": false,
+   "category": "컨설팅",
+   "extra": "스크랩 | 공공기관 경영평가 정책연구 인턴 연구원 모집(정규직 전환 가능) | ㈜엣지컨설팅 | 서울 강서구 | 컨설팅·연구·조사, 컨설턴트, 경영지원 | 연봉 3,000만원~ | 즉시 지원 | 경력무관",
+   "sources": [
+    {
+     "name": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50394140"
+    }
+   ],
+   "first_seen": "2026-11-27",
+   "is_new": true
+  },
+  {
+   "source": "잡코리아",
    "company": "재단법인 은행권청년창업재단",
    "title": "[은행권청년창업재단] 2027년 상반기 디캠프 인턴 채용",
    "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50392494",
@@ -2067,7 +1963,7 @@
    "posted": null,
    "intern": false,
    "category": "은행·보험·기타",
-   "extra": "신입 지원 가능 | 스크랩 | [은행권청년창업재단] 2027년 상반기 디캠프 인턴 채용 | 재단법인 은행권청년창업재단 | 서울 마포구 | 협회·단체, 경영·비즈니스기획, HRD·HRM, 홍보 | 홈페이지 지원 | 신입",
+   "extra": "인턴 채용 진행중 | 스크랩 | [은행권청년창업재단] 2027년 상반기 디캠프 인턴 채용 | 재단법인 은행권청년창업재단 | 서울 마포구 | 협회·단체, 경영·비즈니스기획, HRD·HRM, 홍보 | 홈페이지 지원 | 신입",
    "sources": [
     {
      "name": "잡코리아",
@@ -3055,6 +2951,46 @@
     }
    ],
    "first_seen": "2026-11-19",
+   "is_new": false
+  },
+  {
+   "source": "회사 채용페이지",
+   "company": "한국씨티은행",
+   "title": "대기업 인더스트리얼본부 RA",
+   "url": "https://jobs.citi.com/job/seoul/%eb%8c%80%ea%b8%b0%ec%97%85-%ec%9d%b8%eb%8d%94%ec%8a%a4%ed%8a%b8%eb%a6%ac%ec%96%bc%eb%b3%b8%eb%b6%80-ra/287/103763646496",
+   "deadline": null,
+   "deadline_note": null,
+   "posted": null,
+   "intern": false,
+   "category": "외국계 금융",
+   "extra": "대기업 인더스트리얼본부 RA",
+   "sources": [
+    {
+     "name": "회사 채용페이지",
+     "url": "https://jobs.citi.com/job/seoul/%eb%8c%80%ea%b8%b0%ec%97%85-%ec%9d%b8%eb%8d%94%ec%8a%a4%ed%8a%b8%eb%a6%ac%ec%96%bc%eb%b3%b8%eb%b6%80-ra/287/103763646496"
+    }
+   ],
+   "first_seen": "2026-11-26",
+   "is_new": true
+  },
+  {
+   "source": "회사 채용페이지",
+   "company": "한국씨티은행",
+   "title": "대기업 모빌리티본부 RA",
+   "url": "https://jobs.citi.com/job/seoul/%eb%8c%80%ea%b8%b0%ec%97%85-%eb%aa%a8%eb%b9%8c%eb%a6%ac%ed%8b%b0%eb%b3%b8%eb%b6%80-ra/287/102584414800",
+   "deadline": null,
+   "deadline_note": null,
+   "posted": null,
+   "intern": false,
+   "category": "외국계 금융",
+   "extra": "대기업 모빌리티본부 RA",
+   "sources": [
+    {
+     "name": "회사 채용페이지",
+     "url": "https://jobs.citi.com/job/seoul/%eb%8c%80%ea%b8%b0%ec%97%85-%eb%aa%a8%eb%b9%8c%eb%a6%ac%ed%8b%b0%eb%b3%b8%eb%b6%80-ra/287/102584414800"
+    }
+   ],
+   "first_seen": "2026-11-07",
    "is_new": false
   }
  ]
