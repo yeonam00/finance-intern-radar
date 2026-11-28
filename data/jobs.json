@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-27 23:56",
- "today": "2026-11-27",
+ "generated_at": "2026-11-28 09:31",
+ "today": "2026-11-28",
  "status": [
   {
    "name": "링커리어",
    "ok": true,
-   "fetched": 1051,
-   "sec": 76.9,
-   "kept": 47
+   "fetched": 1044,
+   "sec": 75.1,
+   "kept": 48
   },
   {
    "name": "자소설닷컴",
    "ok": true,
-   "fetched": 278,
-   "sec": 4.6,
+   "fetched": 285,
+   "sec": 10.1,
    "kept": 8
   },
   {
@@ -21,7 +21,7 @@
    "ok": false,
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.catch.co.kr/api/v1.0/recruit/information/getRecruitList?Keyword=%EC%9D%B8%ED%84%B4&Sort=0&curpage=1&pageSize=100&onRecruitYN=Y",
    "fetched": 0,
-   "sec": 0.7,
+   "sec": 0.5,
    "kept": 0
   },
   {
@@ -35,69 +35,93 @@
   {
    "name": "사람인",
    "ok": true,
-   "fetched": 840,
-   "sec": 49.0,
-   "kept": 35
+   "fetched": 991,
+   "sec": 54.7,
+   "kept": 36
   },
   {
    "name": "잡코리아",
    "ok": true,
-   "fetched": 247,
-   "sec": 22.6,
+   "fetched": 242,
+   "sec": 22.0,
    "kept": 33
   },
   {
    "name": "피플앤잡",
-   "ok": false,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.peoplenjob.com', port=443): Max retries exceeded with url: /jobs?field=all&q=%EC%9D%B8%ED%84%B4&page=1 (Caused by ConnectTimeoutError(<HTTPSConnection(hos",
-   "fetched": 0,
-   "sec": 131.6,
-   "kept": 0
+   "ok": true,
+   "fetched": 504,
+   "sec": 28.6,
+   "kept": 15
   },
   {
    "name": "잡알리오",
    "ok": true,
-   "fetched": 65,
-   "sec": 16.0,
+   "fetched": 63,
+   "sec": 16.4,
    "kept": 1
   },
   {
    "name": "벤처투자포털",
    "ok": true,
    "fetched": 76,
-   "sec": 11.1,
+   "sec": 9.6,
    "kept": 2
   },
   {
    "name": "금융투자협회",
-   "ok": true,
+   "ok": false,
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.kofia.or.kr', port=443): Max retries exceeded with url: /brd/m_96/list.do?page=1&srchWord=%EC%9D%B8%ED%84%B4&srchTp=0 (Caused by ConnectTimeoutError(<HTTP",
    "fetched": 0,
-   "sec": 6.5,
+   "sec": 131.3,
    "kept": 0
   },
   {
    "name": "고려대 경영CDC",
    "ok": true,
-   "fetched": 46,
-   "sec": 3.7,
-   "kept": 19
+   "fetched": 42,
+   "sec": 3.0,
+   "kept": 17
   },
   {
    "name": "슈퍼루키",
    "ok": true,
    "fetched": 384,
-   "sec": 42.1,
+   "sec": 41.1,
    "kept": 19
   },
   {
    "name": "회사 채용페이지",
    "ok": true,
    "fetched": 21,
-   "sec": 71.4,
+   "sec": 71.8,
    "kept": 3
   }
  ],
  "jobs": [
+  {
+   "source": "링커리어",
+   "company": "자동차손해배상진흥원",
+   "title": "[자동차손해배상진흥원] 청년인턴(체험형) 채용",
+   "url": "https://linkareer.com/activity/367629",
+   "deadline": "2026-12-14",
+   "deadline_note": null,
+   "posted": "2026-11-27",
+   "intern": true,
+   "category": "은행·보험·기타",
+   "extra": "사무/문서관리",
+   "sources": [
+    {
+     "name": "링커리어",
+     "url": "https://linkareer.com/activity/367629"
+    },
+    {
+     "name": "잡알리오",
+     "url": "https://job.alio.go.kr/recruitview.do?idx=307547"
+    }
+   ],
+   "first_seen": "2026-11-27",
+   "is_new": true
+  },
   {
    "source": "링커리어",
    "company": "카카오뱅크",
@@ -277,7 +301,7 @@
    "url": "https://linkareer.com/activity/367114",
    "deadline": "2026-12-06",
    "deadline_note": null,
-   "posted": null,
+   "posted": "2026-11-25",
    "intern": true,
    "category": "회계법인·FAS",
    "extra": "재무/IR",
@@ -293,6 +317,10 @@
     {
      "name": "잡코리아",
      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50433372"
+    },
+    {
+     "name": "피플앤잡",
+     "url": "https://www.peoplenjob.com/jobs/6325395"
     }
    ],
    "first_seen": "2026-11-26",
@@ -348,7 +376,7 @@
     }
    ],
    "first_seen": "2026-11-24",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -356,7 +384,7 @@
    "title": "[EY한영] 금융감사부문 디지털 감사 & AI 리스크 분석 인턴",
    "url": "https://linkareer.com/activity/365555",
    "deadline": "2026-11-29",
-   "deadline_note": null,
+   "deadline_note": "내일마감",
    "posted": null,
    "intern": true,
    "category": "회계법인·FAS",
@@ -379,13 +407,33 @@
    "is_new": false
   },
   {
+   "source": "사람인",
+   "company": "EY한영",
+   "title": "금융컨설팅본부 Digital Platforms팀 컨설턴트",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55681779",
+   "deadline": "2026-12-06",
+   "deadline_note": null,
+   "posted": null,
+   "intern": false,
+   "category": "회계법인·FAS",
+   "extra": "서울 영등포구 경력2년↑ 대졸↑ 정규직·인턴직 IT컨설팅 , 금융컨설팅 , IT컨설팅 , 컨설턴트 , 서비스기획 외 등록일 26/11/26",
+   "sources": [
+    {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55681779"
+    }
+   ],
+   "first_seen": "2026-11-28",
+   "is_new": true
+  },
+  {
    "source": "링커리어",
    "company": "삼일PwC",
    "title": "[삼일회계법인] Public Service팀 내 의료헬스케어 분야 RA 인턴 채용",
    "url": "https://linkareer.com/activity/367377",
    "deadline": "2026-12-08",
    "deadline_note": null,
-   "posted": null,
+   "posted": "2026-11-26",
    "intern": true,
    "category": "회계법인·FAS",
    "extra": "경영분석/컨설팅",
@@ -393,6 +441,10 @@
     {
      "name": "링커리어",
      "url": "https://linkareer.com/activity/367377"
+    },
+    {
+     "name": "피플앤잡",
+     "url": "https://www.peoplenjob.com/jobs/6325833"
     },
     {
      "name": "슈퍼루키",
@@ -405,11 +457,11 @@
   {
    "source": "링커리어",
    "company": "삼일PwC",
-   "title": "[신성통상] Fulcrum Valuation 인턴 채용",
+   "title": "[삼일회계법인] Fulcrum Valuation 인턴 채용",
    "url": "https://linkareer.com/activity/366702",
    "deadline": "2026-12-06",
    "deadline_note": null,
-   "posted": null,
+   "posted": "2026-11-24",
    "intern": true,
    "category": "회계법인·FAS",
    "extra": "영업관리/기획",
@@ -427,12 +479,16 @@
      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50424979"
     },
     {
+     "name": "피플앤잡",
+     "url": "https://www.peoplenjob.com/jobs/6324548"
+    },
+    {
      "name": "슈퍼루키",
      "url": "https://www.superookie.com/jobs/6b053373364ec8148c721d22"
     }
    ],
    "first_seen": "2026-11-24",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -441,7 +497,7 @@
    "url": "https://linkareer.com/activity/366700",
    "deadline": "2026-12-13",
    "deadline_note": null,
-   "posted": null,
+   "posted": "2026-11-24",
    "intern": true,
    "category": "회계법인·FAS",
    "extra": "영업관리/기획",
@@ -455,21 +511,25 @@
      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55658928"
     },
     {
+     "name": "피플앤잡",
+     "url": "https://www.peoplenjob.com/jobs/6324550"
+    },
+    {
      "name": "슈퍼루키",
      "url": "https://www.superookie.com/jobs/6b0533dfc9077b22d80bf6b2"
     }
    ],
    "first_seen": "2026-11-24",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
    "company": "삼일PwC",
-   "title": "[삼일회계법인] AI 연구소: 풀스택 엔지니어 인턴 채용",
+   "title": "[삼일회계법인] [AI 연구소] 풀스택 엔지니어 인턴 채용",
    "url": "https://linkareer.com/activity/361519",
    "deadline": "2027-01-31",
    "deadline_note": "채용시",
-   "posted": null,
+   "posted": "2026-11-02",
    "intern": true,
    "category": "회계법인·FAS",
    "extra": "프론트엔드개발 백엔드/서버개발",
@@ -485,6 +545,10 @@
     {
      "name": "잡코리아",
      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50287697"
+    },
+    {
+     "name": "피플앤잡",
+     "url": "https://www.peoplenjob.com/jobs/6310860"
     }
    ],
    "first_seen": "2026-11-07",
@@ -628,7 +692,7 @@
     }
    ],
    "first_seen": "2026-11-24",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -769,7 +833,7 @@
    "url": "https://linkareer.com/activity/366592",
    "deadline": "2026-12-04",
    "deadline_note": null,
-   "posted": "2026-11-27",
+   "posted": "2026-11-24",
    "intern": true,
    "category": "회계법인·FAS",
    "extra": "전체 재무/회계/세무",
@@ -787,6 +851,10 @@
      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50422291"
     },
     {
+     "name": "피플앤잡",
+     "url": "https://www.peoplenjob.com/jobs/6324386"
+    },
+    {
      "name": "고려대 경영CDC",
      "url": "https://biz.korea.ac.kr/cdc/recruitment/recruitment_view.html?no=14950"
     },
@@ -796,7 +864,7 @@
     }
    ],
    "first_seen": "2026-11-24",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -805,7 +873,7 @@
    "url": "https://linkareer.com/activity/366358",
    "deadline": "2026-12-17",
    "deadline_note": null,
-   "posted": null,
+   "posted": "2026-11-23",
    "intern": true,
    "category": "회계법인·FAS",
    "extra": "전체 전체",
@@ -823,12 +891,16 @@
      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50417163"
     },
     {
+     "name": "피플앤잡",
+     "url": "https://www.peoplenjob.com/jobs/6323801"
+    },
+    {
      "name": "슈퍼루키",
      "url": "https://www.superookie.com/jobs/6b03e747dc6d1f56fd435cc3"
     }
    ],
    "first_seen": "2026-11-24",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "링커리어",
@@ -837,7 +909,7 @@
    "url": "https://linkareer.com/activity/365735",
    "deadline": "2026-12-23",
    "deadline_note": null,
-   "posted": "2026-11-23",
+   "posted": "2026-11-19",
    "intern": true,
    "category": "회계법인·FAS",
    "extra": "전체 전체",
@@ -853,6 +925,10 @@
     {
      "name": "잡코리아",
      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50399234"
+    },
+    {
+     "name": "피플앤잡",
+     "url": "https://www.peoplenjob.com/jobs/6321531"
     },
     {
      "name": "고려대 경영CDC",
@@ -873,7 +949,7 @@
    "url": "https://linkareer.com/activity/365722",
    "deadline": "2026-12-17",
    "deadline_note": null,
-   "posted": null,
+   "posted": "2026-11-19",
    "intern": true,
    "category": "회계법인·FAS",
    "extra": "전체 재무/회계/세무",
@@ -889,6 +965,10 @@
     {
      "name": "잡코리아",
      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50398841"
+    },
+    {
+     "name": "피플앤잡",
+     "url": "https://www.peoplenjob.com/jobs/6321510"
     },
     {
      "name": "슈퍼루키",
@@ -915,8 +995,16 @@
      "url": "https://linkareer.com/activity/346642"
     },
     {
+     "name": "사람인",
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55686643"
+    },
+    {
      "name": "잡코리아",
      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50441515"
+    },
+    {
+     "name": "피플앤잡",
+     "url": "https://www.peoplenjob.com/jobs/6326337"
     },
     {
      "name": "고려대 경영CDC",
@@ -937,7 +1025,7 @@
    "url": "https://linkareer.com/activity/339219",
    "deadline": "2026-12-31",
    "deadline_note": null,
-   "posted": null,
+   "posted": "2026-10-06",
    "intern": true,
    "category": "회계법인·FAS",
    "extra": "전체 전체 전체 전체",
@@ -953,6 +1041,10 @@
     {
      "name": "잡코리아",
      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50114908"
+    },
+    {
+     "name": "피플앤잡",
+     "url": "https://www.peoplenjob.com/jobs/6294196"
     }
    ],
    "first_seen": "2026-11-07",
@@ -1008,19 +1100,19 @@
     }
    ],
    "first_seen": "2026-11-24",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "사람인",
    "company": "모아저축은행",
    "title": "2027년 상반기 모아저축은행 채용연계형 인턴 및 경력직 모집",
    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55616766",
-   "deadline": "2026-11-29",
-   "deadline_note": null,
+   "deadline": null,
+   "deadline_note": "내일마감",
    "posted": null,
    "intern": false,
    "category": "은행·보험·기타",
-   "extra": "인천 미추홀구 신입·경력 학력무관 정규직·인턴직 증권영업 , 금융상품영업 , 영업 , 고객관리 , 영업직 외 수정일 26/11/20",
+   "extra": "인천 미추홀구 신입·경력 학력무관 정규직·인턴직 증권영업 , 금융상품영업 , 고객관리 , 영업 , 영업직 외 수정일 26/11/20",
    "sources": [
     {
      "name": "사람인",
@@ -1172,7 +1264,7 @@
    "title": "[Forvis Mazars 새빛회계법인] 회계아웃소싱팀 Payroll Intern 모집",
    "url": "https://linkareer.com/activity/362166",
    "deadline": "2026-11-30",
-   "deadline_note": null,
+   "deadline_note": "내일마감",
    "posted": null,
    "intern": true,
    "category": "회계법인·FAS",
@@ -1200,7 +1292,7 @@
    "posted": null,
    "intern": false,
    "category": "회계법인·FAS",
-   "extra": "서울 용산구 경력무관 대졸↑ 인턴직 비서 , 사무보조 , 사무행정 , 서류관리 , 자료입력 외 수정일 26/11/19",
+   "extra": "서울 용산구 경력무관 대졸↑ 인턴직 비서 , 법무 , 자료입력 , 자료조사 , OA 외 수정일 26/11/19",
    "sources": [
     {
      "name": "사람인",
@@ -1424,7 +1516,7 @@
    "posted": null,
    "intern": false,
    "category": "회계법인·FAS",
-   "extra": "서울 강남구 신입 학력무관 인턴직 문서작성 , 연결회계 , 회계결산 , 재무 , 컨설팅 수정일 26/11/24",
+   "extra": "서울 강남구 신입 학력무관 인턴직 문서작성 , 연결회계 , 재무 , 회계결산 , 컨설팅 수정일 26/11/24",
    "sources": [
     {
      "name": "사람인",
@@ -1608,7 +1700,7 @@
    "posted": null,
    "intern": false,
    "category": "자산운용",
-   "extra": "경기 성남시 분당구 신입·경력 학력무관 계약직·인턴직 IR/공시 , 자산운용 , 사무직 , 총무 , 문서작성 외 수정일 26/11/25",
+   "extra": "경기 성남시 분당구 신입·경력 학력무관 계약직·인턴직 사무보조 , IR/공시 , 자산운용 , 사무직 , 총무 외 수정일 26/11/25",
    "sources": [
     {
      "name": "사람인",
@@ -1668,7 +1760,7 @@
    "posted": null,
    "intern": false,
    "category": "VC",
-   "extra": "경기 성남시 분당구 신입 대졸↑ 인턴직 투자분석 , 투자자산 , 사업제휴 , 시장조사 , 신사업발굴 외 등록일 26/11/13",
+   "extra": "경기 성남시 분당구 신입 대졸↑ 인턴직 투자분석 , 투자자산 , 투자심사 , 엑셀러레이팅 , 신사업발굴 외 등록일 26/11/13",
    "sources": [
     {
      "name": "사람인",
@@ -1680,26 +1772,6 @@
     }
    ],
    "first_seen": "2026-11-16",
-   "is_new": false
-  },
-  {
-   "source": "사람인",
-   "company": "(재)은행권청년창업재단",
-   "title": "[은행권청년창업재단] 2027년 상반기 디캠프 인턴 채용",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55610920",
-   "deadline": "2026-12-02",
-   "deadline_note": null,
-   "posted": null,
-   "intern": false,
-   "category": "은행·보험·기타",
-   "extra": "서울 마포구 신입 학력무관 인턴직 230 만원 투자분석 , 기술지원 , 유지보수 , 채용담당자 , HRD 외 등록일 26/11/18",
-   "sources": [
-    {
-     "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55610920"
-    }
-   ],
-   "first_seen": "2026-11-19",
    "is_new": false
   },
   {
@@ -1724,23 +1796,19 @@
   },
   {
    "source": "사람인",
-   "company": "보험계리법인지아컨설팅",
-   "title": "보험계리법인지아컨설팅(주) 인턴 모집",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55617257",
-   "deadline": "2026-11-29",
+   "company": "(재)은행권청년창업재단",
+   "title": "[은행권청년창업재단] 2027년 상반기 디캠프 인턴 채용",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55610920",
+   "deadline": "2026-12-02",
    "deadline_note": null,
    "posted": null,
    "intern": false,
    "category": "은행·보험·기타",
-   "extra": "서울 구로구 신입 대졸↑ 인턴직 금융컨설팅 , 비금융지주회사 등록일 26/11/19",
+   "extra": "서울 마포구 신입 학력무관 인턴직 230 만원 투자분석 , 유지보수 , 사업관리 , 홍보 , 언론홍보 외 등록일 26/11/18",
    "sources": [
     {
      "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55617257"
-    },
-    {
-     "name": "잡코리아",
-     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50396348"
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55610920"
     }
    ],
    "first_seen": "2026-11-19",
@@ -1756,7 +1824,7 @@
    "posted": null,
    "intern": false,
    "category": "컨설팅",
-   "extra": "서울 금천구 경력무관 대졸↑ 인턴직 220 만원 정책연구 , 자료조사 , 컨설팅 , 조사분석 수정일 26/11/23",
+   "extra": "서울 금천구 경력무관 대졸↑ 인턴직 220 만원 자료조사 , 정책연구 , 조사분석 수정일 26/11/23",
    "sources": [
     {
      "name": "사람인",
@@ -1768,22 +1836,26 @@
   },
   {
    "source": "사람인",
-   "company": "다산회계법인",
-   "title": "[다산회계법인 2본부] 국가 R&D사업 연구비 정산 보조 모집",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55566281",
-   "deadline": "2026-12-13",
-   "deadline_note": null,
+   "company": "보험계리법인지아컨설팅",
+   "title": "보험계리법인지아컨설팅(주) 인턴 모집",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55617257",
+   "deadline": null,
+   "deadline_note": "내일마감",
    "posted": null,
    "intern": false,
-   "category": "회계법인·FAS",
-   "extra": "서울 강남구 경력무관 초대졸↑ 인턴직 회계법인 , 회계법인 등록일 26/11/13",
+   "category": "은행·보험·기타",
+   "extra": "서울 구로구 신입 대졸↑ 인턴직 금융컨설팅 , 비금융지주회사 등록일 26/11/19",
    "sources": [
     {
      "name": "사람인",
-     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55566281"
+     "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55617257"
+    },
+    {
+     "name": "잡코리아",
+     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50396348"
     }
    ],
-   "first_seen": "2026-11-21",
+   "first_seen": "2026-11-19",
    "is_new": false
   },
   {
@@ -1820,7 +1892,7 @@
    "posted": null,
    "intern": false,
    "category": "신용평가",
-   "extra": "서울 영등포구 경력무관 학력무관 파견직 경리 , 경리사무원 , 전산회계 , AICPA , CFA 외 등록일 26/11/06",
+   "extra": "서울 영등포구 경력무관 학력무관 파견직 사무직 , 사무행정 , 사무보조 , 서류관리 , ERP 외 등록일 26/11/06",
    "sources": [
     {
      "name": "사람인",
@@ -1931,23 +2003,83 @@
    "is_new": false
   },
   {
-   "source": "잡알리오",
-   "company": "자동차손해배상진흥원",
-   "title": "자동차손해배상진흥원 청년인턴(체험형) 채용",
-   "url": "https://job.alio.go.kr/recruitview.do?idx=307547",
-   "deadline": "2026-12-14",
+   "source": "피플앤잡",
+   "company": "Atlas Copco Korea",
+   "title": "[아트라스콥코코리아] GAP 부서 SHE&Facility 인턴 모집 (파견계약직 6개월 /부산 명지동 근무)",
+   "url": "https://www.peoplenjob.com/jobs/6326623",
+   "deadline": null,
    "deadline_note": null,
    "posted": "2026-11-27",
-   "intern": true,
-   "category": "은행·보험·기타",
-   "extra": "청년인턴(체험형)",
+   "intern": false,
+   "category": "PE",
+   "extra": "부산 / 부산 광역시 강서구 / 명지동 인턴.신입 11.27 ~ 채용시",
    "sources": [
     {
-     "name": "잡알리오",
-     "url": "https://job.alio.go.kr/recruitview.do?idx=307547"
+     "name": "피플앤잡",
+     "url": "https://www.peoplenjob.com/jobs/6326623"
     }
    ],
-   "first_seen": "2026-11-27",
+   "first_seen": "2026-11-28",
+   "is_new": true
+  },
+  {
+   "source": "피플앤잡",
+   "company": "Simon-Kucher & Partners",
+   "title": "Healthcare & Life Sciences 정규직 전환형 인턴, Simon-Kucher Korea",
+   "url": "https://www.peoplenjob.com/jobs/6325277",
+   "deadline": "2026-12-18",
+   "deadline_note": null,
+   "posted": "2026-11-25",
+   "intern": false,
+   "category": "컨설팅",
+   "extra": "서울 인턴.신입 11.25 ~ 12.18",
+   "sources": [
+    {
+     "name": "피플앤잡",
+     "url": "https://www.peoplenjob.com/jobs/6325277"
+    }
+   ],
+   "first_seen": "2026-11-28",
+   "is_new": true
+  },
+  {
+   "source": "피플앤잡",
+   "company": "HSBC은행",
+   "title": "[HSBC은행] 증권관리부 인턴 (6M)",
+   "url": "https://www.peoplenjob.com/jobs/6319650",
+   "deadline": "2026-12-16",
+   "deadline_note": null,
+   "posted": "2026-11-16",
+   "intern": false,
+   "category": "외국계 금융",
+   "extra": "서울 인턴.신입 11.16 ~ 12.16",
+   "sources": [
+    {
+     "name": "피플앤잡",
+     "url": "https://www.peoplenjob.com/jobs/6319650"
+    }
+   ],
+   "first_seen": "2026-11-28",
+   "is_new": true
+  },
+  {
+   "source": "피플앤잡",
+   "company": "Hebronstar",
+   "title": "[Hebronstar] 전략컨설팅펌 (Research Assistant) 채용",
+   "url": "https://www.peoplenjob.com/jobs/6303238",
+   "deadline": null,
+   "deadline_note": null,
+   "posted": "2026-10-21",
+   "intern": false,
+   "category": "컨설팅",
+   "extra": "서울 강남 인턴.신입 10.21 ~ 채용시",
+   "sources": [
+    {
+     "name": "피플앤잡",
+     "url": "https://www.peoplenjob.com/jobs/6303238"
+    }
+   ],
+   "first_seen": "2026-11-28",
    "is_new": true
   },
   {
@@ -2048,7 +2180,7 @@
     }
    ],
    "first_seen": "2026-11-24",
-   "is_new": true
+   "is_new": false
   },
   {
    "source": "고려대 경영CDC",
@@ -2068,26 +2200,6 @@
     }
    ],
    "first_seen": "2026-11-24",
-   "is_new": true
-  },
-  {
-   "source": "고려대 경영CDC",
-   "company": "IMM인베스트먼트",
-   "title": "[IMM인베스트먼트] Growth Equity Investment Research Analyst 채용 공고",
-   "url": "https://biz.korea.ac.kr/cdc/recruitment/recruitment_view.html?no=14922",
-   "deadline": "2026-11-27",
-   "deadline_note": null,
-   "posted": "2026-11-19",
-   "intern": true,
-   "category": "PE",
-   "extra": "RA 인턴",
-   "sources": [
-    {
-     "name": "고려대 경영CDC",
-     "url": "https://biz.korea.ac.kr/cdc/recruitment/recruitment_view.html?no=14922"
-    }
-   ],
-   "first_seen": "2026-11-19",
    "is_new": false
   },
   {
@@ -2105,26 +2217,6 @@
     {
      "name": "고려대 경영CDC",
      "url": "https://biz.korea.ac.kr/cdc/recruitment/recruitment_view.html?no=14910"
-    }
-   ],
-   "first_seen": "2026-11-19",
-   "is_new": false
-  },
-  {
-   "source": "고려대 경영CDC",
-   "company": "삼덕회계법인",
-   "title": "[삼덕회계법인] 대학생 인턴 모집 공고",
-   "url": "https://biz.korea.ac.kr/cdc/recruitment/recruitment_view.html?no=14909",
-   "deadline": "2026-11-27",
-   "deadline_note": null,
-   "posted": "2026-11-16",
-   "intern": true,
-   "category": "회계법인·FAS",
-   "extra": "인턴 인턴",
-   "sources": [
-    {
-     "name": "고려대 경영CDC",
-     "url": "https://biz.korea.ac.kr/cdc/recruitment/recruitment_view.html?no=14909"
     }
    ],
    "first_seen": "2026-11-19",
